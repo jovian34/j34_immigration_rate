@@ -104,4 +104,12 @@ class ImmigrationCase:
             result_file.writelines(f"Cases with No result: {no_result} out of {total} cases.\n")
             result_file.writelines(f"Granted Rate: {granted_rate} out of {total} cases.")
 
+    @staticmethod
+    def report_error_cases():
+        with open('outputs/result.txt', 'r') as result_text:
+            with open('outputs/error.txt', 'w') as error_text:
+                lines = result_text.readlines()
+                for line in lines:
+                    if '*******ERROR' in line:
+                        error_text.writelines(line)
 
