@@ -69,28 +69,33 @@ class ImmigrationCase:
                     if first_case:
                         first_case = False
                     else:
-                        self.case_dict[curr_case] = key_phrases
+                        values["phrases"] = key_phrases
+                        self.case_dict[curr_case] = values
                     curr_case = line.strip()
                     self.case_dict[curr_case] = "Unknown"
-                    key_phrases = []
+                    values = {}
                     new_case = False
                 elif line.strip() == "End of Document":
                     new_case = True
+                elif line.strip()[:6] == "IN RE:":
+                    values["name"] == line.strip()[6:]
+                    print(values["name"])
                 else:
                     phrase = self.line_contains_key_phrase(line.strip())
                     if phrase:
                         key_phrases.append(phrase)
-            self.case_dict[curr_case] = key_phrases
+            values["phrases"] = key_phrases
+            self.case_dict[curr_case] = values
 
     def calculate_granted_rate(self):
         granted = 0
         total = 0
         no_result = 0
         with open('outputs/result.txt', 'w') as result_file:
-            for case, result in self.case_dict.items():
-                result_file.writelines(f"{case}: {result}")
+            for case, value in self.case_dict.items():
+                result_file.writelines(f"{case}: {value['phrases'][0]}")
                 try:
-                    if result[0] in self.key_granted_phrase_collection:
+                    if value['phrases'][0] in self.key_granted_phrase_collection:
                         granted += 1
                         result_file.writelines(f"- GRANTED\n")
                     else:
