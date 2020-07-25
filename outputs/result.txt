@@ -1,0 +1,2287 @@
+2008 WL 4420127 (BIA): ['is vacated', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2008 WL 4420083 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 4420068 (BIA): ['is granted', 'is remanded']- GRANTED
+2008 WL 4420060 (BIA): ['is remanded']- GRANTED
+2008 WL 4420074 (BIA): ['is remanded']- GRANTED
+2008 WL 4620407 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2008 WL 4420096 (BIA): ['is denied', 'motion to reopen will be denied', 'The respondent’s motion is untimely']- DENIED
+2008 WL 4647023 (BIA): ['is denied', 'find no error']- DENIED
+2008 WL 4647026 (BIA): ['is denied', 'find no error']- DENIED
+2008 WL 4722685 (BIA): ['is denied']- DENIED
+2008 WL 4722689 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 4722680 (BIA): ['is denied']- DENIED
+2008 WL 4722667 (BIA): ['is remanded']- GRANTED
+2008 WL 4868677 (BIA): ['is remanded', 'is sustained']- GRANTED
+2008 WL 4868709 (BIA): ['is denied', 'is vacated', 'is granted', 'will be granted']- DENIED
+2008 WL 4868711 (BIA): ['is remanded']- GRANTED
+2008 WL 5025204 (BIA): ['is remanded']- GRANTED
+2008 WL 5025208 (BIA): ['is remanded', 'is granted', 'will be granted', 'grant the motion']- GRANTED
+2008 WL 5025211 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 5025210 (BIA): ['is denied']- DENIED
+2008 WL 5025148 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 5025161 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 5025253 (BIA): ['is denied', 'is dismissed', 'find no error', 'will be dismissed']- DENIED
+2008 WL 5025156 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 5025245 (BIA): ['is remanded', 'is denied', 'The respondent’s motion is untimely']- GRANTED
+2008 WL 5181762 (BIA): ['is denied']- DENIED
+2008 WL 5181826 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 5181828 (BIA): ['is denied']- DENIED
+2008 WL 5181747 (BIA): ['is dismissed', 'is granted', 'is vacated', 'find no error']- DENIED
+2008 WL 5181741 (BIA): ['is denied']- DENIED
+2008 WL 5181746 (BIA): ['is dismissed', 'is vacated']- DENIED
+2008 WL 5181798 (BIA): ['is remanded', 'is sustained']- GRANTED
+2008 WL 5181776 (BIA): ['is remanded', 'will be granted']- GRANTED
+2008 WL 5181784 (BIA): ['is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2008 WL 5181773 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 5244675 (BIA): ['is dismissed']- DENIED
+2008 WL 5244670 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2008 WL 5244733 (BIA): ['grant the motion', 'will be granted']- GRANTED
+2008 WL 5244708 (BIA): ['is dismissed', 'is dismissed', 'will be dismissed']- DENIED
+2008 WL 5244707 (BIA): ['is dismissed', 'is dismissed', 'will be dismissed']- DENIED
+2008 WL 5244716 (BIA): ['is granted', 'is remanded', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2008 WL 5244717 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 5477751 (BIA): ['is remanded']- GRANTED
+2008 WL 5477671 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 5477703 (BIA): ['is denied']- DENIED
+2008 WL 5537858 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2008 WL 5537832 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2008 WL 5537831 (BIA): ['is remanded']- GRANTED
+2008 WL 5537794 (BIA): ['find no error']- DENIED
+2008 WL 5537774 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 5537782 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 5537825 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 5537807 (BIA): ['is denied', 'motion to reopen will be denied', 'motion to reopen will be denied']- DENIED
+2008 WL 5537808 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 5537816 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2008 WL 5537824 (BIA): ['is remanded', 'is granted']- GRANTED
+2008 WL 5537815 (BIA): ['is denied']- DENIED
+2008 WL 5537768 (BIA): ['is granted', 'is dismissed', 'find no error', 'will be dismissed']- GRANTED
+2008 WL 5537760 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2008 WL 5537748 (BIA): ['is remanded', 'is vacated']- GRANTED
+2009 WL 263084 (BIA): ['is denied', 'is denied', 'is dismissed', 'is dismissed']- DENIED
+2009 WL 263082 (BIA): ['is remanded', 'is granted']- GRANTED
+24 I. & N. Dec. 710 (U.S.Atty.Gen.), Interim Decision 3632, 2009 WL 47338: ['is granted']- GRANTED
+2009 WL 263072 (BIA): ['is denied']- DENIED
+2009 WL 263078 (BIA): ['is dismissed', 'is denied', 'is denied', 'is denied', 'will be dismissed']- DENIED
+2009 WL 263129 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2009 WL 263055 (BIA): ['is denied']- DENIED
+2009 WL 8559922 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 331213 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 331210 (BIA): ['is dismissed', 'find no error', 'find no error', 'will be dismissed']- DENIED
+2009 WL 331212 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 263032 (BIA): ['is remanded', 'is sustained']- GRANTED
+2009 WL 331226 (BIA): ['is dismissed', 'will be dismissed', 'is granted', 'will be dismissed']- DENIED
+2009 WL 331220 (BIA): ['will be granted']- GRANTED
+2009 WL 331200 (BIA): ['is denied', 'is denied', 'find no error']- DENIED
+2009 WL 331186 (BIA): ['is remanded']- GRANTED
+2009 WL 331188 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 331182 (BIA): ['is remanded', 'is sustained']- GRANTED
+2009 WL 331240 (BIA): ['is remanded', 'is granted', 'grant the motion']- GRANTED
+2009 WL 422053 (BIA): ['is denied']- DENIED
+2009 WL 422070 (BIA): ['is remanded', 'is vacated']- GRANTED
+2009 WL 422077 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 455588 (BIA): ['is dismissed', 'dismiss the appeal', 'is affirmed', 'will be dismissed']- DENIED
+2009 WL 455597 (BIA): ['is denied']- DENIED
+2009 WL 523158 (BIA): ['are remanded', 'will be granted', 'will be granted']- GRANTED
+2009 WL 523139 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2009 WL 638914 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2009 WL 638903 (BIA): ['is vacated', 'is granted']- GRANTED
+2009 WL 638878 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2009 WL 773150 (BIA): ['is denied']- DENIED
+2009 WL 773159 (BIA): ['is denied']- DENIED
+2009 WL 773221 (BIA): ['is dismissed', 'will be dismissed', 'find no error', 'will be dismissed']- DENIED
+2009 WL 888469 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 888529 (BIA): []*******ERROR: 2009 WL 888529 (BIA) has no result*************
+2009 WL 952488 (BIA): ['is remanded', 'is granted', 'grant the motion']- GRANTED
+2009 WL 952485 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 1030747 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2009 WL 1030763 (BIA): ['is dismissed', 'is remanded']- DENIED
+2009 WL 1103513 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 1212211 (BIA): ['is remanded']- GRANTED
+2007 WL 1168487 (BIA): ['is remanded', 'is vacated', 'is denied']- GRANTED
+2007 WL 1168488 (BIA): ['is remanded', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2007 WL 1154087 (BIA): ['we have dismissed', 'the appeal is untimely']- DENIED
+2007 WL 1192273 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1153926 (BIA): ['is sustained']- GRANTED
+2007 WL 1114143 (BIA): ['is dismissed']- DENIED
+2007 WL 1114138 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1169642 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2007 WL 1169638 (BIA): ['is denied']- DENIED
+2007 WL 1114122 (BIA): ['is dismissed', 'is vacated', 'will be dismissed']- DENIED
+2007 WL 1180542 (BIA): ['is denied']- DENIED
+2007 WL 1192122 (BIA): ['is remanded', 'are vacated']- GRANTED
+2007 WL 1192460 (BIA): ['is denied']- DENIED
+2007 WL 1140666 (BIA): ['is denied']- DENIED
+2007 WL 1153851 (BIA): ['is, therefore, denied', 'is denied']- DENIED
+2007 WL 1140673 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1430913 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2007 WL 1430718 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2007 WL 1430391 (BIA): ['is, therefore, denied']- DENIED
+24 I. & N. Dec. 151 (BIA), Interim Decision 3563, 2007 WL 1213235: ['is sustained']- GRANTED
+2007 WL 1430786 (BIA): ['is dismissed']- DENIED
+2007 WL 1430911 (BIA): ['is denied', 'is denied']- DENIED
+2007 WL 1430787 (BIA): ['is granted', 'is denied', 'grant the motion', 'will be granted']- GRANTED
+2007 WL 2074430 (BIA): ['is denied']- DENIED
+2007 WL 1430335 (BIA): ['is remanded', 'is sustained', 'will be granted']- GRANTED
+2007 WL 1520834 (BIA): ['is dismissed', 'find no error', 'is dismissed']- DENIED
+2007 WL 1520860 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2007 WL 1520859 (BIA): ['is denied']- DENIED
+2007 WL 1520890 (BIA): ['is denied']- DENIED
+2007 WL 1520811 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2007 WL 1520807 (BIA): ['is dismissed']- DENIED
+2007 WL 1520804 (BIA): ['is denied', 'is denied']- DENIED
+2007 WL 1492141 (BIA): ['is remanded']- GRANTED
+2007 WL 1676912 (BIA): ['is, therefore, denied']- DENIED
+2007 WL 1724841 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1676943 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1676942 (BIA): ['is denied', 'is dismissed']- DENIED
+2007 WL 1724855 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1724843 (BIA): ['is vacated', 'is granted', 'is vacated']- GRANTED
+2007 WL 1724875 (BIA): ['is dismissed', 'is vacated', 'will be dismissed']- DENIED
+2007 WL 1724866 (BIA): ['is denied']- DENIED
+2007 WL 1794213 (BIA): ['is remanded', 'are vacated', 'remand this case']- GRANTED
+2007 WL 1794353 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2007 WL 1794355 (BIA): ['is denied', 'is denied']- DENIED
+2007 WL 1794367 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1794348 (BIA): ['is denied']- DENIED
+2007 WL 1794189 (BIA): ['find no error', 'will be dismissed']- DENIED
+2007 WL 2074503 (BIA): ['are remanded']- GRANTED
+2007 WL 2074434 (BIA): ['is remanded', 'is sustained']- GRANTED
+2007 WL 2074427 (BIA): ['is remanded', 'is vacated', 'is sustained']- GRANTED
+2007 WL 2074428 (BIA): ['is vacated', 'will be granted', 'is granted']- GRANTED
+2007 WL 2074548 (BIA): ['is remanded', 'is granted']- GRANTED
+2007 WL 2074553 (BIA): ['is remanded', 'is granted']- GRANTED
+2007 WL 2074476 (BIA): ['is dismissed', 'is affirmed']- DENIED
+2007 WL 2074467 (BIA): ['is denied', 'find no error', 'find no error', 'is denied']- DENIED
+2007 WL 2074457 (BIA): ['is denied', 'is dismissed', 'find no error', 'will be dismissed']- DENIED
+2007 WL 2299677 (BIA): ['We therefore remand']- GRANTED
+2007 WL 2197541 (BIA): ['is dismissed', 'is denied']- DENIED
+2007 WL 2197553 (BIA): ['is remanded']- GRANTED
+2007 WL 2197535 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2007 WL 2197561 (BIA): ['is vacated', 'is dismissed', 'grant the motion']- GRANTED
+2007 WL 2299612 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 2299608 (BIA): ['is dismissed', 'is denied', 'is denied']- DENIED
+2007 WL 2299611 (BIA): ['The respondent’s motion is untimely', 'is denied']- DENIED
+2007 WL 2299642 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 2299658 (BIA): ['is denied']- DENIED
+2007 WL 2463889 (BIA): ['is dismissed']- DENIED
+2007 WL 2463884 (BIA): ['is dismissed']- DENIED
+2007 WL 2463897 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2007 WL 2463894 (BIA): ['is remanded', 'is granted']- GRANTED
+2007 WL 2464019 (BIA): ['is denied']- DENIED
+2007 WL 2464000 (BIA): ['is denied']- DENIED
+2007 WL 2463970 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2007 WL 2463968 (BIA): ['is denied', 'is denied', 'find no error']- DENIED
+2007 WL 2463945 (BIA): ['is denied', 'is dismissed', 'is dismissed', 'is dismissed']- DENIED
+2007 WL 2463944 (BIA): ['is remanded', 'is granted', 'are vacated']- GRANTED
+2007 WL 2463935 (BIA): ['is denied', 'is denied']- DENIED
+2007 WL 2463926 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2007 WL 2588591 (BIA): ['is dismissed', 'is granted']- DENIED
+2007 WL 2588585 (BIA): ['is dismissed', 'is granted', 'is dismissed']- DENIED
+2007 WL 2588588 (BIA): ['is vacated', 'is granted']- GRANTED
+2007 WL 2588613 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2007 WL 2588610 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2007 WL 2588536 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 2588538 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2007 WL 2588548 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 2588544 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2007 WL 2588553 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2007 WL 2588552 (BIA): ['is dismissed', 'will be dismissed', 'find no error', 'will be dismissed']- DENIED
+2007 WL 2588560 (BIA): ['is remanded', 'is vacated']- GRANTED
+2007 WL 2825151 (BIA): ['is remanded', 'is vacated']- GRANTED
+2007 WL 2825124 (BIA): ['is remanded', 'is sustained']- GRANTED
+2007 WL 2825118 (BIA): ['is remanded', 'remand this case']- GRANTED
+2007 WL 2825145 (BIA): ['is remanded', 'is sustained']- GRANTED
+2007 WL 2825139 (BIA): ['remand this case']- GRANTED
+2007 WL 2825132 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2007 WL 2825213 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2007 WL 2825216 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2007 WL 2825159 (BIA): ['is vacated', 'is sustained']- GRANTED
+2007 WL 2825162 (BIA): ['is granted', 'is denied']- GRANTED
+2007 WL 2825160 (BIA): []*******ERROR: 2007 WL 2825160 (BIA) has no result*************
+2007 WL 2825169 (BIA): ['is denied']- DENIED
+2007 WL 3318656 (BIA): ['is granted', 'will be granted']- GRANTED
+2007 WL 3318639 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 4699795 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2007 WL 3318684 (BIA): ['is dismissed']- DENIED
+2007 WL 3318683 (BIA): ['is remanded', 'will be granted']- GRANTED
+2007 WL 3318632 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 3318671 (BIA): ['is remanded', 'is vacated', 'is vacated', 'is granted', 'will be granted']- GRANTED
+2007 WL 3318150 (BIA): ['is dismissed']- DENIED
+2007 WL 3318164 (BIA): ['is granted']- GRANTED
+2007 WL 3318156 (BIA): ['is denied']- DENIED
+2007 WL 3318154 (BIA): ['is remanded', 'remand this case']- GRANTED
+2007 WL 3301709 (BIA): ['is denied']- DENIED
+2007 WL 3301460 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 3301447 (BIA): ['is denied']- DENIED
+2007 WL 4182251 (BIA): ['is dismissed', 'find no error', 'find no error', 'will be dismissed']- DENIED
+2007 WL 4182240 (BIA): []*******ERROR: 2007 WL 4182240 (BIA) has no result*************
+2007 WL 4182287 (BIA): ['is remanded', 'is granted']- GRANTED
+2007 WL 4182277 (BIA): ['is dismissed', 'is denied', 'is dismissed']- DENIED
+2007 WL 4182279 (BIA): ['is denied']- DENIED
+2007 WL 4182367 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2007 WL 4182347 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2007 WL 4707360 (BIA): ['is denied']- DENIED
+2007 WL 4707494 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2007 WL 4699883 (BIA): ['is dismissed']- DENIED
+2007 WL 4699882 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 4699969 (BIA): ['is denied']- DENIED
+2007 WL 4699964 (BIA): ['is granted']- GRANTED
+2007 WL 4699889 (BIA): ['is dismissed']- DENIED
+2007 WL 4707480 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2007 WL 4707477 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 4707402 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 4699877 (BIA): ['is dismissed', 'find no error']- DENIED
+2007 WL 4699734 (BIA): ['is denied', 'is denied', 'is dismissed', 'will be dismissed']- DENIED
+2007 WL 4707485 (BIA): ['is dismissed']- DENIED
+2007 WL 4699896 (BIA): ['is sustained', 'is vacated', 'will be granted', 'will be granted']- GRANTED
+2007 WL 4699735 (BIA): ['is, therefore, denied', 'is denied']- DENIED
+2007 WL 4699777 (BIA): ['is remanded', 'will be granted']- GRANTED
+2007 WL 4707408 (BIA): ['is denied']- DENIED
+2007 WL 4699736 (BIA): ['is denied']- DENIED
+2007 WL 4699753 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2007 WL 4699744 (BIA): ['is denied', 'is granted']- DENIED
+2007 WL 4699742 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2007 WL 4699741 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2007 WL 4699895 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2007 WL 4699891 (BIA): ['is denied', 'find no error']- DENIED
+2007 WL 4707541 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2007 WL 4699929 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2007 WL 4699960 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 4699937 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 4707380 (BIA): ['is sustained']- GRANTED
+2007 WL 4707376 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 4707375 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2007 WL 4707388 (BIA): ['is granted', 'is dismissed', 'grant the motion', 'will be dismissed']- GRANTED
+2007 WL 4711436 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 4711420 (BIA): ['is affirmed', 'is dismissed', 'will be dismissed']- DENIED
+2007 WL 4711446 (BIA): ['is dismissed']- DENIED
+2007 WL 4711459 (BIA): ['is affirmed', 'is granted']- DENIED
+2007 WL 4711452 (BIA): ['is sustained']- GRANTED
+2007 WL 4818600 (BIA): ['is dismissed', 'is affirmed']- DENIED
+2007 WL 4818611 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 339664 (BIA): ['are remanded']- GRANTED
+2008 WL 243723 (BIA): ['is remanded', 'will be granted', 'is vacated']- GRANTED
+2008 WL 243728 (BIA): ['is, therefore, denied']- DENIED
+2008 WL 243727 (BIA): ['is denied']- DENIED
+2008 WL 243758 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 243746 (BIA): ['is denied']- DENIED
+2008 WL 243738 (BIA): ['is denied', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2008 WL 339641 (BIA): ['is dismissed', 'find no error']- DENIED
+2008 WL 339634 (BIA): ['is dismissed']- DENIED
+2008 WL 486823 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 486840 (BIA): ['are dismissed', 'will be dismissed']- DENIED
+2008 WL 486850 (BIA): ['is denied']- DENIED
+2008 WL 486858 (BIA): ['is remanded', 'is hereby vacated', 'is granted', 'will be granted']- GRANTED
+2008 WL 486852 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 486872 (BIA): ['is remanded', 'is sustained']- GRANTED
+2008 WL 486870 (BIA): ['is granted', 'is dismissed']- GRANTED
+2008 WL 486887 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 486878 (BIA): ['is dismissed', 'are denied', 'will be dismissed']- DENIED
+2008 WL 486875 (BIA): ['is denied']- DENIED
+2008 WL 486900 (BIA): ['is remanded', 'is sustained', 'is denied']- GRANTED
+2008 WL 486949 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 486927 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 655771 (BIA): ['is dismissed', 'is granted', 'will be dismissed']- DENIED
+2008 WL 655765 (BIA): ['is dismissed', 'is denied', 'will be dismissed', 'will be dismissed']- DENIED
+2008 WL 655897 (BIA): ['is remanded', 'is granted']- GRANTED
+2008 WL 655944 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2008 WL 762771 (BIA): ['is dismissed']- DENIED
+2008 WL 762758 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 762742 (BIA): ['is hereby remanded', 'is sustained', 'is denied']- GRANTED
+2008 WL 762745 (BIA): ['are remanded']- GRANTED
+2008 WL 762682 (BIA): ['is dismissed', 'is dismissed', 'is dismissed']- DENIED
+2008 WL 762667 (BIA): ['are denied', 'are denied']- DENIED
+2008 WL 762668 (BIA): ['is remanded', 'is hereby vacated', 'will be granted', 'will be granted']- GRANTED
+2006 WL 901580 (BIA): ['is, therefore, denied']- DENIED
+2006 WL 901508 (BIA): ['is dismissed']- DENIED
+2006 WL 901511 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2006 WL 901510 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 901503 (BIA): ['is sustained']- GRANTED
+2006 WL 901551 (BIA): ['is denied', 'is hereby vacated']- DENIED
+2006 WL 901556 (BIA): ['is dismissed', 'will be dismissed', 'grant the motion']- DENIED
+2006 WL 901534 (BIA): ['is denied']- DENIED
+2006 WL 1455265 (BIA): ['is, therefore, denied']- DENIED
+2006 WL 1455242 (BIA): ['is granted', 'is sustained']- GRANTED
+2006 WL 1455325 (BIA): ['grant the motion']- GRANTED
+2006 WL 1558801 (BIA): ['is denied', 'is denied']- DENIED
+2006 WL 1558804 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2006 WL 1558793 (BIA): ['is denied']- DENIED
+2006 WL 1558833 (BIA): ['is denied', 'find no error', 'will be granted']- DENIED
+2006 WL 1558842 (BIA): ['is denied', 'motion to reopen will be denied', 'motion to reopen will be denied']- DENIED
+2006 WL 1558855 (BIA): ['is denied', 'is denied', 'find no error']- DENIED
+2006 WL 1558857 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 1558843 (BIA): ['is sustained']- GRANTED
+2006 WL 1558735 (BIA): ['is denied']- DENIED
+2006 WL 1558737 (BIA): ['is dismissed']- DENIED
+2006 WL 1558710 (BIA): ['is remanded']- GRANTED
+2006 WL 1558704 (BIA): ['is remanded']- GRANTED
+2006 WL 1455295 (BIA): ['find no error']- DENIED
+2006 WL 1558698 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 1558682 (BIA): []*******ERROR: 2006 WL 1558682 (BIA) has no result*************
+2006 WL 1558678 (BIA): ['is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2006 WL 1558664 (BIA): ['is dismissed']- DENIED
+2006 WL 1647488 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2006 WL 1647484 (BIA): ['is dismissed', 'will be granted']- DENIED
+2006 WL 1647462 (BIA): ['is denied', 'is denied', 'are denied']- DENIED
+2006 WL 1647477 (BIA): ['is denied', 'is denied']- DENIED
+2006 WL 1647453 (BIA): ['is remanded', 'will be granted', 'grant the motion', 'will be granted']- GRANTED
+2006 WL 2008183 (BIA): ['is sustained', 'will be granted']- GRANTED
+2006 WL 2008151 (BIA): ['is remanded']- GRANTED
+2006 WL 2008146 (BIA): ['is, therefore, denied']- DENIED
+2006 WL 2008213 (BIA): ['We adopt and affirm the decision']- DENIED
+2006 WL 2008227 (BIA): ['is remanded', 'will be granted', 'will be granted']- GRANTED
+2006 WL 2008206 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2006 WL 2008233 (BIA): ['is denied']- DENIED
+2006 WL 2008143 (BIA): ['is remanded', 'We therefore remand', 'is granted']- GRANTED
+2006 WL 2024179 (BIA): ['is remanded', 'is sustained']- GRANTED
+2006 WL 2008307 (BIA): ['is remanded']- GRANTED
+2006 WL 2008283 (BIA): ['is denied']- DENIED
+2006 WL 2008362 (BIA): ['is denied', 'find no error']- DENIED
+2006 WL 2008326 (BIA): ['is remanded', 'is granted', 'The respondent’s motion is untimely', 'will be granted']- GRANTED
+2006 WL 2008271 (BIA): ['is denied', 'is denied', 'is denied', 'is denied']- DENIED
+2006 WL 2008358 (BIA): ['is sustained', 'is vacated', 'is sustained', 'is granted', 'will be granted']- GRANTED
+2006 WL 2008165 (BIA): ['is remanded']- GRANTED
+2006 WL 2024195 (BIA): ['is denied']- DENIED
+2006 WL 2024189 (BIA): ['is dismissed']- DENIED
+2006 WL 2183448 (BIA): ['is dismissed']- DENIED
+2006 WL 2183572 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2006 WL 2183591 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2006 WL 2183595 (BIA): ['is denied']- DENIED
+2006 WL 2183610 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2006 WL 2183608 (BIA): ['is denied']- DENIED
+2006 WL 2183521 (BIA): ['is dismissed', 'is affirmed', 'find no error']- DENIED
+2006 WL 2183375 (BIA): ['is denied']- DENIED
+2006 WL 2183549 (BIA): ['is remanded', 'grant the motion']- GRANTED
+2006 WL 2391275 (BIA): ['is sustained']- GRANTED
+2006 WL 2391269 (BIA): ['is denied', 'is denied']- DENIED
+2006 WL 2391266 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2006 WL 2391172 (BIA): ['is dismissed']- DENIED
+2006 WL 2391197 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2006 WL 2391195 (BIA): ['is remanded', 'is sustained']- GRANTED
+2006 WL 2391198 (BIA): ['is remanded', 'is remanded', 'is remanded']- GRANTED
+2006 WL 2391199 (BIA): ['is denied']- DENIED
+2006 WL 2391231 (BIA): ['is remanded']- GRANTED
+2006 WL 2391246 (BIA): ['is dismissed']- DENIED
+2006 WL 2427849 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2006 WL 2427870 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2006 WL 2427921 (BIA): ['is dismissed']- DENIED
+2006 WL 2427895 (BIA): ['is denied', 'is denied']- DENIED
+2006 WL 2427915 (BIA): ['is remanded']- GRANTED
+2006 WL 2803383 (BIA): ['is denied']- DENIED
+2006 WL 2803381 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2006 WL 2803335 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 2803336 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2006 WL 2803332 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2006 WL 2803300 (BIA): ['is dismissed']- DENIED
+2006 WL 2803407 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 2803361 (BIA): ['is remanded']- GRANTED
+2006 WL 2803391 (BIA): ['is denied']- DENIED
+2006 WL 3088777 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2006 WL 3088784 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2006 WL 3088786 (BIA): ['is remanded', 'is denied', 'is remanded']- GRANTED
+2006 WL 3088814 (BIA): ['is dismissed', 'is vacated', 'is granted', 'is dismissed', 'is affirmed']- DENIED
+2006 WL 3088812 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3252600 (BIA): ['is denied']- DENIED
+2006 WL 3252532 (BIA): ['is remanded', 'is remanded']- GRANTED
+2006 WL 3485672 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2005 WL 1104212 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2005 WL 1104216 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2005 WL 1104178 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2005 WL 1104165 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 1104258 (BIA): ['is remanded', 'will be granted']- GRANTED
+2005 WL 1104244 (BIA): ['is sustained']- GRANTED
+2005 WL 1104352 (BIA): ['is remanded', 'is granted']- GRANTED
+2005 WL 1104347 (BIA): ['is granted']- GRANTED
+2005 WL 1104225 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2005 WL 1104263 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2005 WL 952434 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 952454 (BIA): ['is denied', 'is denied']- DENIED
+2005 WL 952456 (BIA): ['is granted']- GRANTED
+2005 WL 952455 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 952453 (BIA): ['is dismissed']- DENIED
+2005 WL 1396811 (BIA): ['are vacated']- GRANTED
+2005 WL 1396815 (BIA): ['is denied']- DENIED
+2005 WL 1396807 (BIA): ['is remanded', 'will be granted', 'will be granted']- GRANTED
+2005 WL 1111840 (BIA): ['is granted', 'is granted', 'grant the motion', 'will be granted']- GRANTED
+2005 WL 1111809 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 1396796 (BIA): ['the appeal is untimely', 'will be dismissed']- DENIED
+2005 WL 1396838 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 1766779 (BIA): ['is granted']- GRANTED
+2005 WL 1766769 (BIA): ['is denied']- DENIED
+2005 WL 1848384 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2005 WL 3016129 (BIA): ['is vacated', 'is granted', 'is dismissed', 'will be dismissed']- GRANTED
+2005 WL 3016132 (BIA): ['is dismissed']- DENIED
+2005 WL 3016106 (BIA): ['is denied']- DENIED
+2005 WL 3016118 (BIA): ['is sustained', 'is denied']- GRANTED
+2005 WL 3016097 (BIA): ['is denied']- DENIED
+2005 WL 3016096 (BIA): ['is dismissed']- DENIED
+2005 WL 3016095 (BIA): ['is denied']- DENIED
+2005 WL 3016134 (BIA): ['is remanded', 'is sustained']- GRANTED
+2005 WL 3016048 (BIA): ['is denied']- DENIED
+2005 WL 3016041 (BIA): ['is denied']- DENIED
+2005 WL 3016064 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2005 WL 3016046 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2005 WL 3016047 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2005 WL 3952728 (BIA): ['is denied', 'is denied']- DENIED
+2005 WL 3952724 (BIA): ['is dismissed']- DENIED
+2005 WL 3952740 (BIA): ['is denied']- DENIED
+2005 WL 3952690 (BIA): ['is dismissed', 'is granted']- DENIED
+2005 WL 3833028 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2005 WL 3802232 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2005 WL 3802220 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2005 WL 3802282 (BIA): ['is denied']- DENIED
+2005 WL 3802275 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 3802276 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2005 WL 3802252 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2005 WL 3802247 (BIA): ['We adopt and affirm the decision']- DENIED
+2005 WL 3802183 (BIA): ['We adopt and affirm the decision']- DENIED
+2005 WL 3802127 (BIA): ['is dismissed']- DENIED
+2005 WL 3802101 (BIA): ['is sustained']- GRANTED
+2005 WL 3802139 (BIA): ['is remanded']- GRANTED
+2005 WL 3802131 (BIA): ['is denied']- DENIED
+2005 WL 3802165 (BIA): ['is dismissed']- DENIED
+2005 WL 3802095 (BIA): ['is granted', 'is sustained']- GRANTED
+2005 WL 3802092 (BIA): ['is remanded']- GRANTED
+2005 WL 3802121 (BIA): ['is remanded', 'are hereby vacated', 'is sustained']- GRANTED
+2005 WL 3709334 (BIA): ['We adopt and affirm the decision']- DENIED
+2005 WL 3709338 (BIA): ['is dismissed', 'find no error']- DENIED
+2005 WL 3709351 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2005 WL 3709354 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 3709344 (BIA): ['is dismissed', 'find no error', 'We adopt and affirm the decision']- DENIED
+2005 WL 3709377 (BIA): ['is remanded']- GRANTED
+2005 WL 3709369 (BIA): ['dismiss the appeal', 'We adopt and affirm the decision']- DENIED
+2005 WL 3709314 (BIA): ['find no error']- DENIED
+2005 WL 3709242 (BIA): ['is denied']- DENIED
+2005 WL 3709287 (BIA): ['is granted', 'is dismissed', 'is dismissed']- GRANTED
+2005 WL 3709280 (BIA): ['is denied']- DENIED
+2006 WL 211059 (BIA): ['is, therefore, denied', 'is denied']- DENIED
+2006 WL 211054 (BIA): ['is remanded', 'is dismissed']- GRANTED
+2006 WL 448319 (BIA): ['is, therefore, denied', 'is denied']- DENIED
+2006 WL 448242 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2006 WL 448166 (BIA): ['is denied']- DENIED
+2006 WL 729673 (BIA): ['is, therefore, denied']- DENIED
+2006 WL 448358 (BIA): ['is denied', 'is denied']- DENIED
+2006 WL 448263 (BIA): ['is denied']- DENIED
+2006 WL 448271 (BIA): ['the appeal is untimely', 'will be dismissed']- DENIED
+2006 WL 729731 (BIA): ['is denied']- DENIED
+2006 WL 448306 (BIA): ['is denied']- DENIED
+2006 WL 448299 (BIA): ['is dismissed', 'is denied', 'We adopt and affirm the decision']- DENIED
+2006 WL 448188 (BIA): ['We adopt and affirm the decision']- DENIED
+2006 WL 729641 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2006 WL 448191 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2006 WL 448192 (BIA): ['We adopt and affirm the decision']- DENIED
+2006 WL 448201 (BIA): ['are vacated']- GRANTED
+2006 WL 557837 (BIA): ['is remanded']- GRANTED
+2006 WL 557821 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 901468 (BIA): ['is remanded', 'is sustained', 'will be granted']- GRANTED
+2006 WL 729777 (BIA): ['is remanded']- GRANTED
+2006 WL 729768 (BIA): ['is remanded', 'will be granted']- GRANTED
+2006 WL 729785 (BIA): ['is dismissed', 'find no error', 'We adopt and affirm the decision']- DENIED
+2006 WL 729793 (BIA): ['is denied']- DENIED
+2006 WL 901313 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2006 WL 901310 (BIA): ['is remanded']- GRANTED
+2006 WL 901486 (BIA): ['is remanded', 'is denied', 'is remanded']- GRANTED
+2006 WL 901477 (BIA): ['is sustained', 'will be granted']- GRANTED
+2006 WL 901433 (BIA): ['is denied']- DENIED
+2006 WL 901435 (BIA): ['is remanded']- GRANTED
+2011 WL 1570492 (BIA): ['is vacated']- GRANTED
+25 I. & N. Dec. 445 (BIA), Interim Decision 3708, 2011 WL 1341569: ['is remanded', 'is sustained']- GRANTED
+2011 WL 1792605 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 1792598 (BIA): ['The respondent’s motion is untimely']- DENIED
+2011 WL 1792640 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 1792636 (BIA): ['will be granted']- GRANTED
+2011 WL 1792654 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2011 WL 1792657 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 1792093 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 1792079 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 1792113 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 1792102 (BIA): ['is denied', 'motion to reopen will be denied', 'is granted', 'motion to reopen will be denied']- DENIED
+2011 WL 1792105 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 1792121 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 1792124 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 1792095 (BIA): []*******ERROR: 2011 WL 1792095 (BIA) has no result*************
+2011 WL 1792123 (BIA): ['is denied']- DENIED
+2011 WL 2038479 (BIA): ['is denied', 'is denied', 'is granted', 'motion to reopen will be denied']- DENIED
+2011 WL 2038458 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 2261243 (BIA): ['is denied', 'is denied']- DENIED
+2011 WL 2261246 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 2261204 (BIA): ['is denied', 'is denied']- DENIED
+2011 WL 2261219 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 2261214 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 2470941 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 2470939 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 2470949 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 2470932 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 2607064 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 2607063 (BIA): ['is remanded', 'are vacated', 'is sustained']- GRANTED
+2011 WL 2607053 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 3443891 (BIA): ['is denied', 'grant the motion']- DENIED
+25 I. & N. Dec. 559 (BIA), Interim Decision 3721, 2011 WL 2741062: ['is granted', 'is granted']- GRANTED
+2011 WL 3443878 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 3443872 (BIA): ['is denied']- DENIED
+2011 WL 3443865 (BIA): ['is remanded', 'is granted']- GRANTED
+2011 WL 3443855 (BIA): ['are dismissing', 'the appeal is untimely']- DENIED
+2011 WL 3443853 (BIA): ['is denied', 'is granted']- DENIED
+2011 WL 3443849 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2011 WL 3443843 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 3665694 (BIA): ['is denied']- DENIED
+2011 WL 3665693 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 3665690 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 3665685 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 3665684 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 3888566 (BIA): ['is denied']- DENIED
+2011 WL 3888562 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 3888561 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2011 WL 3889709 (BIA): ['is dismissed']- DENIED
+2011 WL 3888585 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 3888584 (BIA): ['is denied']- DENIED
+2011 WL 3889624 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2011 WL 3888572 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2011 WL 3888571 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 3889665 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 4446817 (BIA): ['is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2011 WL 4446834 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2011 WL 4446844 (BIA): ['is denied']- DENIED
+2011 WL 4446853 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 4446858 (BIA): ['is denied', 'is denied']- DENIED
+2011 WL 4446879 (BIA): ['are denied', 'is denied']- DENIED
+2011 WL 4446863 (BIA): ['is denied']- DENIED
+2011 WL 4730890 (BIA): ['is vacated', 'is granted']- GRANTED
+2011 WL 4730886 (BIA): ['is remanded']- GRANTED
+2011 WL 4730882 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 4730881 (BIA): ['is denied']- DENIED
+2011 WL 5111710 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 5111719 (BIA): ['is, therefore, denied']- DENIED
+2011 WL 5111720 (BIA): ['is sustained']- GRANTED
+2011 WL 5111722 (BIA): ['is denied']- DENIED
+2011 WL 5111685 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2011 WL 5326119 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2011 WL 5326095 (BIA): ['is denied']- DENIED
+2011 WL 5326138 (BIA): ['are denied', 'motion to reopen will be denied', 'find no error']- DENIED
+2011 WL 5326077 (BIA): ['is denied']- DENIED
+2011 WL 5326127 (BIA): ['is denied']- DENIED
+2011 WL 5865111 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2011 WL 5865087 (BIA): ['is remanded', 'is sustained']- GRANTED
+2011 WL 6026583 (BIA): ['is denied', 'motion to reopen will be denied', 'is granted']- DENIED
+2011 WL 6026581 (BIA): ['is sustained']- GRANTED
+2011 WL 6706315 (BIA): ['is denied']- DENIED
+2011 WL 6706460 (BIA): ['is denied', 'is denied', 'find no error', 'find no error']- DENIED
+2011 WL 6706453 (BIA): ['is denied']- DENIED
+2011 WL 6962808 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 6962766 (BIA): ['is denied']- DENIED
+2011 WL 6962767 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 6965194 (BIA): ['is dismissed', 'will be dismissed', 'is granted']- DENIED
+2011 WL 6962817 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 6962780 (BIA): ['is remanded', 'is denied', 'is dismissed', 'will be dismissed']- GRANTED
+2011 WL 6962773 (BIA): ['is dismissed']- DENIED
+2011 WL 6965220 (BIA): ['is remanded', 'is remanded']- GRANTED
+2011 WL 7071042 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 7071006 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 7071019 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 7071034 (BIA): ['is dismissed']- DENIED
+2011 WL 7071033 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 177347 (BIA): ['is, therefore, denied']- DENIED
+2012 WL 371678 (BIA): ['is denied']- DENIED
+2012 WL 371647 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 371651 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+26 I. & N. Dec. 651 (BIA), Interim Decision 3847, 2015 WL 5025373: ['is remanded']- GRANTED
+2015 WL 5173560 (BIA): ['find no error', 'find no error', 'is denied']- DENIED
+2015 WL 5244404 (BIA): ['is denied']- DENIED
+2015 WL 5173559 (BIA): ['is denied']- DENIED
+2015 WL 5173572 (BIA): ['is remanded']- GRANTED
+2015 WL 5944125 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 5944127 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 5935616 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 5996707 (BIA): ['is remanded']- GRANTED
+2015 WL 5996710 (BIA): ['is remanded', 'is granted']- GRANTED
+2015 WL 5996734 (BIA): ['is remanded']- GRANTED
+2015 WL 5996735 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2015 WL 5996725 (BIA): ['is denied', 'is dismissed', 'is granted']- DENIED
+2015 WL 5996740 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2015 WL 5996746 (BIA): ['is denied', 'is denied']- DENIED
+2015 WL 7074221 (BIA): ['is dismissed', 'The respondent’s motion is untimely', 'will be dismissed']- DENIED
+2015 WL 7074249 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 7074157 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 7074191 (BIA): ['is dismissed', 'The respondent’s motion is untimely', 'find no error', 'will be dismissed']- DENIED
+2015 WL 7074194 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 7074195 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2015 WL 7074187 (BIA): ['is denied']- DENIED
+2015 WL 7074233 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 7074110 (BIA): ['is denied', 'is denied']- DENIED
+2015 WL 7074137 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 7074118 (BIA): ['is remanded', 'is denied']- GRANTED
+2015 WL 8561171 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 8561166 (BIA): ['is remanded']- GRANTED
+2015 WL 8561156 (BIA): ['is denied']- DENIED
+2015 WL 8561142 (BIA): ['is dismissed']- DENIED
+2015 WL 8561140 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 8562302 (BIA): ['is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2015 WL 8561133 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 8561138 (BIA): ['is denied']- DENIED
+2015 WL 9809813 (BIA): ['is remanded']- GRANTED
+2015 WL 9809812 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2015 WL 9809823 (BIA): ['is denied']- DENIED
+2015 WL 9809844 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 9809849 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 10090681 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 10090672 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 10090670 (BIA): ['is denied', 'is denied']- DENIED
+2016 WL 807274 (BIA): ['is denied']- DENIED
+2016 WL 807268 (BIA): ['is dismissed', 'is affirmed', 'find no error', 'will be dismissed']- DENIED
+2016 WL 807250 (BIA): ['is denied', 'is denied']- DENIED
+2016 WL 11158781 (BIA): []*******ERROR: 2016 WL 11158781 (BIA) has no result*************
+2016 WL 807232 (BIA): ['is granted', 'is sustained', 'will be granted']- GRANTED
+2016 WL 807204 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 807202 (BIA): ['is remanded']- GRANTED
+2016 WL 946737 (BIA): ['is denied']- DENIED
+2016 WL 946709 (BIA): ['is remanded', 'is vacated']- GRANTED
+2016 WL 946721 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2016 WL 946690 (BIA): ['is dismissed', 'will be dismissed', 'dismiss the appeal']- DENIED
+2016 WL 1084515 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1084514 (BIA): ['are denied']- DENIED
+2016 WL 1084496 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1084480 (BIA): ['is denied', 'is denied']- DENIED
+2016 WL 1084474 (BIA): ['is denied', 'is granted']- DENIED
+2016 WL 1084466 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1357996 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1357984 (BIA): ['is remanded', 'is vacated']- GRANTED
+2016 WL 1357954 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1357957 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1357958 (BIA): ['is denied', 'is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 1357941 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1357918 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2016 WL 1722597 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1722585 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 1722534 (BIA): ['is denied']- DENIED
+2016 WL 1722520 (BIA): ['is remanded']- GRANTED
+2016 WL 1722512 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 2848953 (BIA): ['will be granted']- GRANTED
+2016 WL 2848945 (BIA): ['is dismissed', 'is denied', 'are dismissing', 'the appeal is untimely']- DENIED
+2016 WL 2848927 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2016 WL 3226659 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 3226657 (BIA): ['is remanded', 'is sustained']- GRANTED
+2016 WL 3226636 (BIA): ['is remanded']- GRANTED
+2016 WL 3226617 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 3226601 (BIA): ['is denied']- DENIED
+2016 WL 3226593 (BIA): ['is remanded']- GRANTED
+2016 WL 3924093 (BIA): ['is denied']- DENIED
+2016 WL 3924073 (BIA): ['is dismissed']- DENIED
+2016 WL 3924057 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 3924042 (BIA): ['is denied', 'is denied']- DENIED
+2016 WL 3924027 (BIA): ['is denied', 'is vacated', 'is denied']- DENIED
+2016 WL 3924022 (BIA): ['is granted', 'is sustained', 'will be granted']- GRANTED
+2016 WL 4035833 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 4035841 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 4035790 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+26 I. & N. Dec. 765 (BIA), Interim Decision 3865, 2016 WL 3538417: ['is denied', 'is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 4035770 (BIA): ['is remanded', 'is granted', 'grant the motion', 'is denied']- GRANTED
+2016 WL 4035757 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 4035751 (BIA): ['is denied', 'is dismissed', 'dismiss the appeal']- DENIED
+2016 WL 4035748 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 4035749 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 4120582 (BIA): ['is remanded', 'is granted', 'grant the motion']- GRANTED
+2016 WL 4120581 (BIA): ['is denied', 'is dismissed', 'find no error', 'will be dismissed']- DENIED
+2016 WL 4120563 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2016 WL 4120567 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 4120559 (BIA): ['is dismissed', 'find no error', 'find no error', 'will be dismissed']- DENIED
+2014 WL 4407687 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 4407934 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 4407738 (BIA): ['is dismissed', 'dismiss the appeal', 'dismiss the appeal']- DENIED
+2014 WL 4966416 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 4966420 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 4966425 (BIA): ['is denied']- DENIED
+2014 WL 4966403 (BIA): ['is denied', 'motion to reopen will be denied', 'is denied']- DENIED
+2014 WL 4966494 (BIA): ['is dismissed']- DENIED
+2014 WL 4966492 (BIA): ['will be granted']- GRANTED
+2014 WL 4966519 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 4966373 (BIA): ['is denied']- DENIED
+2014 WL 4966364 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2014 WL 6882887 (BIA): ['is dismissed', 'will be dismissed', 'find no error', 'will be dismissed']- DENIED
+2014 WL 6882885 (BIA): ['is denied', 'is dismissed', 'dismiss the appeal']- DENIED
+2014 WL 6882880 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 6882870 (BIA): ['is denied']- DENIED
+2014 WL 6882900 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 6882890 (BIA): ['is dismissed', 'is granted', 'will be dismissed']- DENIED
+2014 WL 6882893 (BIA): ['will be dismissed', 'will be dismissed']- DENIED
+2014 WL 6883005 (BIA): ['is denied']- DENIED
+2014 WL 6883008 (BIA): ['is denied']- DENIED
+2014 WL 6882913 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 6883025 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2014 WL 6883026 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2014 WL 6883012 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 6883032 (BIA): ['is denied']- DENIED
+2014 WL 7508457 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 7508455 (BIA): ['is vacated', 'is granted']- GRANTED
+2014 WL 8771685 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 7508430 (BIA): ['is denied']- DENIED
+2014 WL 7691430 (BIA): ['is remanded', 'is sustained']- GRANTED
+2014 WL 7691412 (BIA): ['is remanded', 'is sustained']- GRANTED
+2014 WL 7691453 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 7691450 (BIA): ['is denied', 'is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 7691435 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 10155324 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 799732 (BIA): ['are denied', 'is dismissed', 'will be dismissed']- DENIED
+2015 WL 799727 (BIA): ['is denied']- DENIED
+2015 WL 799754 (BIA): ['is dismissed']- DENIED
+2015 WL 799765 (BIA): ['is remanded']- GRANTED
+2015 WL 799924 (BIA): ['is denied', 'is denied']- DENIED
+2015 WL 799939 (BIA): ['is, hereby, denied']- DENIED
+2015 WL 1208087 (BIA): ['is denied']- DENIED
+2015 WL 1208082 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 1208077 (BIA): ['is denied']- DENIED
+2015 WL 1208067 (BIA): ['is denied', 'find no error']- DENIED
+2015 WL 1208104 (BIA): ['is remanded', 'is denied', 'is sustained', 'will be granted', 'is denied']- GRANTED
+2015 WL 1208095 (BIA): ['is denied']- DENIED
+2015 WL 1208207 (BIA): ['is dismissed']- DENIED
+2015 WL 1208094 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 1208211 (BIA): ['is denied']- DENIED
+2015 WL 1605466 (BIA): ['is dismissed', 'is granted']- DENIED
+2015 WL 1605467 (BIA): ['is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2015 WL 1605456 (BIA): ['is dismissed']- DENIED
+2015 WL 1605446 (BIA): ['is remanded']- GRANTED
+2015 WL 1605481 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 2090757 (BIA): ['is denied', 'is granted']- DENIED
+2015 WL 2090737 (BIA): ['is denied', 'is granted']- DENIED
+2015 WL 2090722 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 2090714 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 10582167 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2015 WL 1978546 (BIA): ['is vacated', 'is dismissed', 'will be dismissed']- GRANTED
+2015 WL 1978548 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2015 WL 1978549 (BIA): ['is remanded']- GRANTED
+2015 WL 1978584 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 1978568 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 1978624 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 3488723 (BIA): ['is dismissed', 'remand this case', 'will be dismissed']- DENIED
+2015 WL 3483413 (BIA): ['will be dismissed']- DENIED
+2015 WL 3483401 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 3483389 (BIA): ['is sustained']- GRANTED
+2015 WL 3896273 (BIA): ['is remanded']- GRANTED
+2015 WL 3932325 (BIA): ['is remanded']- GRANTED
+2015 WL 3932324 (BIA): ['is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2015 WL 3932301 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 3932292 (BIA): ['is remanded', 'is sustained']- GRANTED
+2015 WL 3896291 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 4537109 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 4537102 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2015 WL 4537075 (BIA): ['is denied']- DENIED
+2015 WL 4510768 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2015 WL 4537063 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 4510769 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2015 WL 4510746 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 4510726 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2015 WL 4510727 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 4510729 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2015 WL 4873226 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 4873251 (BIA): ['is remanded', 'is sustained']- GRANTED
+2015 WL 4873235 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 4761232 (BIA): ['is denied', 'is denied']- DENIED
+2015 WL 4761221 (BIA): ['is dismissed', 'will be granted', 'is granted']- DENIED
+2015 WL 4761246 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 5180605 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 5180628 (BIA): ['is denied', 'is denied']- DENIED
+2015 WL 5180619 (BIA): ['is denied', 'is dismissed', 'dismiss the appeal', 'dismiss the appeal', 'will be dismissed']- DENIED
+2015 WL 5180635 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 5244403 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 5180644 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2015 WL 5173566 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2012 WL 6641679 (BIA): ['is remanded', 'will be granted']- GRANTED
+2012 WL 6641678 (BIA): ['is dismissed', 'will be dismissed', 'is granted']- DENIED
+2012 WL 6641684 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2012 WL 6641708 (BIA): ['are dismissing', 'the appeal is untimely']- DENIED
+2012 WL 6641705 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 6641698 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 6641696 (BIA): ['is denied']- DENIED
+2012 WL 6641693 (BIA): ['is remanded', 'will be granted']- GRANTED
+2012 WL 6641784 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 6641758 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 6641752 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2012 WL 6641745 (BIA): ['is, therefore, denied']- DENIED
+2012 WL 6641809 (BIA): ['is denied']- DENIED
+2012 WL 6968968 (BIA): ['is denied', 'are denied']- DENIED
+2012 WL 6968964 (BIA): ['is remanded']- GRANTED
+2012 WL 6968958 (BIA): ['is denied']- DENIED
+2012 WL 6968959 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2012 WL 6968983 (BIA): ['is dismissed', 'will be dismissed', 'is dismissed', 'will be dismissed']- DENIED
+2013 WL 416270 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2013 WL 416257 (BIA): ['is denied']- DENIED
+2013 WL 416261 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 416252 (BIA): ['is remanded', 'are vacated']- GRANTED
+2013 WL 416256 (BIA): ['is dismissed', 'will be dismissed', 'find no error', 'will be dismissed']- DENIED
+2013 WL 416243 (BIA): ['is denied']- DENIED
+2013 WL 1933916 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2013 WL 1933913 (BIA): ['is denied', 'is denied']- DENIED
+2013 WL 1933942 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 1933539 (BIA): ['is denied']- DENIED
+2013 WL 1933447 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2013 WL 1933463 (BIA): ['are denied']- DENIED
+2013 WL 2610164 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 2610160 (BIA): ['is sustained']- GRANTED
+2013 WL 2610148 (BIA): ['is sustained']- GRANTED
+2013 WL 2612936 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 2610112 (BIA): ['is dismissed', 'remand this case', 'will be dismissed']- DENIED
+2013 WL 2610100 (BIA): ['is remanded', 'is denied']- GRANTED
+2013 WL 2610098 (BIA): ['is denied']- DENIED
+2013 WL 2610080 (BIA): ['is denied']- DENIED
+2013 WL 2610058 (BIA): ['is denied', 'find no error']- DENIED
+2013 WL 2610048 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 2610032 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 2608492 (BIA): ['is vacated', 'are sustained']- GRANTED
+2013 WL 2608473 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 2608463 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 2608470 (BIA): ['is denied']- DENIED
+2013 WL 2608481 (BIA): ['is remanded', 'is granted', 'grant the motion']- GRANTED
+2013 WL 2608453 (BIA): ['is remanded']- GRANTED
+2013 WL 2608445 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 2608416 (BIA): ['is remanded']- GRANTED
+2013 WL 2608402 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 2608394 (BIA): ['is granted', 'will be granted']- GRANTED
+2013 WL 2608364 (BIA): ['is dismissed', 'will be dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2013 WL 2608360 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 2608334 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2013 WL 3200525 (BIA): ['is, therefore, denied']- DENIED
+2013 WL 3200575 (BIA): ['is denied']- DENIED
+2013 WL 3200562 (BIA): ['is remanded']- GRANTED
+2013 WL 3200555 (BIA): ['is dismissed']- DENIED
+2013 WL 3200553 (BIA): ['is granted', 'is dismissed', 'will be dismissed']- GRANTED
+2013 WL 4041203 (BIA): ['is remanded']- GRANTED
+2013 WL 3899706 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 3899687 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 3899696 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 3899747 (BIA): ['will be dismissed']- DENIED
+2013 WL 4041201 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 3899731 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2013 WL 3899766 (BIA): ['is denied']- DENIED
+2013 WL 3899767 (BIA): ['is denied']- DENIED
+2013 WL 3899774 (BIA): ['are denied']- DENIED
+2013 WL 3899754 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2013 WL 3899821 (BIA): ['is remanded', 'are vacated', 'is granted']- GRANTED
+2013 WL 3899812 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 3899814 (BIA): ['is vacated']- GRANTED
+2013 WL 4041216 (BIA): ['is granted', 'will be granted']- GRANTED
+26 I. & N. Dec. 161 (BIA), Interim Decision 3788, 2013 WL 3781299: ['is remanded', 'is sustained']- GRANTED
+2013 WL 3899851 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2013 WL 3899846 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 4041225 (BIA): ['is denied']- DENIED
+2013 WL 4041228 (BIA): ['is denied']- DENIED
+2013 WL 4041229 (BIA): ['is remanded']- GRANTED
+2013 WL 4041214 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 4041246 (BIA): ['is denied']- DENIED
+2013 WL 4041243 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 4041234 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 4041253 (BIA): ['is remanded', 'is vacated']- GRANTED
+2013 WL 5208950 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 5208932 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 5208919 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 5208917 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2013 WL 5208974 (BIA): ['is dismissed']- DENIED
+2013 WL 4924939 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 4925084 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2013 WL 4925075 (BIA): ['is denied', 'is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2013 WL 4925052 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2013 WL 5295839 (BIA): ['is denied']- DENIED
+2013 WL 5295821 (BIA): ['is remanded']- GRANTED
+2013 WL 5872079 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 5872070 (BIA): ['is, therefore, denied']- DENIED
+2013 WL 5872092 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 5872142 (BIA): ['is remanded', 'are hereby vacated', 'is granted']- GRANTED
+2008 WL 762642 (BIA): ['is remanded']- GRANTED
+2008 WL 1734650 (BIA): ['is remanded', 'will be granted']- GRANTED
+2008 WL 1734654 (BIA): ['is denied', 'is denied', 'motion to reopen will be denied']- DENIED
+2008 WL 1734616 (BIA): ['is denied']- DENIED
+2008 WL 1734618 (BIA): ['is remanded', 'is vacated', 'is vacated']- GRANTED
+2008 WL 1734682 (BIA): ['is denied']- DENIED
+2008 WL 1734668 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2008 WL 1734675 (BIA): ['is denied']- DENIED
+2008 WL 1734676 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 1924544 (BIA): ['is denied']- DENIED
+2008 WL 1924543 (BIA): ['is remanded']- GRANTED
+2008 WL 1924575 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 1924585 (BIA): ['are denied', 'is denied', 'is denied', 'are denied']- DENIED
+2008 WL 1924656 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2008 WL 1924666 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2008 WL 1924669 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2008 WL 1924627 (BIA): ['find no error', 'is dismissed', 'find no error', 'is dismissed']- DENIED
+2008 WL 1924626 (BIA): ['is remanded', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2008 WL 1924643 (BIA): ['is denied']- DENIED
+2008 WL 2079347 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2008 WL 2079335 (BIA): ['is, therefore, denied']- DENIED
+2008 WL 2401068 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 2079319 (BIA): ['is denied']- DENIED
+2008 WL 2401101 (BIA): ['is remanded', 'is sustained']- GRANTED
+2008 WL 7540259 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2008 WL 2401060 (BIA): ['is denied']- DENIED
+2008 WL 2401185 (BIA): ['is denied']- DENIED
+2008 WL 2401148 (BIA): ['is dismissed', 'will be granted', 'is dismissed']- DENIED
+2008 WL 2401157 (BIA): ['is remanded', 'is vacated']- GRANTED
+2008 WL 2401041 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 2401042 (BIA): ['is denied']- DENIED
+2008 WL 2401093 (BIA): ['is denied']- DENIED
+2008 WL 2401085 (BIA): ['is granted', 'is granted']- GRANTED
+2008 WL 2401078 (BIA): ['is sustained']- GRANTED
+2008 WL 2400991 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2008 WL 2401013 (BIA): ['is vacated', 'grant the motion']- GRANTED
+2008 WL 2401010 (BIA): ['is denied', 'is denied', 'is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2008 WL 2400974 (BIA): ['is remanded']- GRANTED
+2008 WL 2400959 (BIA): ['is denied']- DENIED
+2008 WL 2400966 (BIA): ['is remanded', 'is vacated']- GRANTED
+2008 WL 2517567 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2008 WL 2517580 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2008 WL 2517595 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 2517592 (BIA): ['is denied']- DENIED
+2008 WL 2783067 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 2783064 (BIA): ['is remanded', 'is vacated', 'is vacated', 'is granted', 'will be granted']- GRANTED
+2008 WL 2783063 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2008 WL 2783068 (BIA): ['is remanded']- GRANTED
+2008 WL 2783106 (BIA): ['is granted', 'will be granted', 'will be granted']- GRANTED
+2008 WL 2783028 (BIA): ['is sustained', 'is vacated', 'is vacated']- GRANTED
+2008 WL 2782965 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 2782967 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2008 WL 2783015 (BIA): ['is dismissed', 'are dismissed', 'is denied', 'will be dismissed']- DENIED
+2008 WL 2782986 (BIA): ['remand this case', 'is vacated', 'is sustained']- GRANTED
+2008 WL 2783025 (BIA): ['is remanded', 'will be dismissed']- GRANTED
+2008 WL 2938428 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 2938452 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 2938454 (BIA): ['is denied']- DENIED
+2008 WL 2938473 (BIA): ['find no error']- DENIED
+2008 WL 3861940 (BIA): ['motion to reopen will be denied', 'is denied', 'is denied', 'is denied']- DENIED
+2008 WL 3861927 (BIA): ['is sustained']- GRANTED
+2008 WL 3861951 (BIA): ['is remanded', 'is dismissed', 'will be dismissed']- GRANTED
+2008 WL 3919107 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2008 WL 3861923 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2008 WL 3919078 (BIA): ['is remanded']- GRANTED
+2008 WL 3919082 (BIA): ['is remanded', 'is granted', 'is hereby vacated']- GRANTED
+2008 WL 3919069 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2008 WL 3919105 (BIA): ['is denied', 'is granted']- DENIED
+2008 WL 3919061 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2008 WL 3919058 (BIA): ['is denied']- DENIED
+2008 WL 3919064 (BIA): ['is remanded', 'is vacated']- GRANTED
+2008 WL 3919045 (BIA): ['is remanded', 'is sustained']- GRANTED
+2008 WL 3919047 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 3919090 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2008 WL 4066046 (BIA): ['is affirmed', 'is vacated', 'is granted', 'is affirmed', 'dismiss the appeal', 'grant the motion']- DENIED
+2008 WL 4066028 (BIA): ['is denied']- DENIED
+2008 WL 4066031 (BIA): ['is remanded', 'will be granted']- GRANTED
+2008 WL 4066032 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 4066033 (BIA): ['is remanded', 'will be granted']- GRANTED
+2008 WL 4066038 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 4065960 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 4066014 (BIA): ['is denied']- DENIED
+2008 WL 4066013 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2008 WL 4066002 (BIA): ['is denied']- DENIED
+2008 WL 4065976 (BIA): ['is dismissed', 'is affirmed', 'will be granted', 'find no error', 'will be dismissed']- DENIED
+2008 WL 4146709 (BIA): ['is denied', 'is dismissed', 'find no error']- DENIED
+2008 WL 4146718 (BIA): ['is denied']- DENIED
+2008 WL 4222243 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 4222171 (BIA): ['are remanded']- GRANTED
+2008 WL 4222242 (BIA): ['is sustained']- GRANTED
+2008 WL 4222176 (BIA): ['is denied', 'is denied']- DENIED
+2008 WL 4222180 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 4335861 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2008 WL 4335838 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2008 WL 4335839 (BIA): ['is remanded']- GRANTED
+2008 WL 4335843 (BIA): ['will be dismissed', 'will be dismissed']- DENIED
+2008 WL 4335856 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2008 WL 4420138 (BIA): ['is denied']- DENIED
+2008 WL 4420133 (BIA): ['is remanded', 'is sustained']- GRANTED
+2008 WL 4420136 (BIA): ['is remanded', 'will be granted']- GRANTED
+2018 WL 3007233 (BIA): ['is denied', 'is denied', 'is denied', 'is granted']- DENIED
+2018 WL 3007221 (BIA): []*******ERROR: 2018 WL 3007221 (BIA) has no result*************
+2018 WL 3007200 (BIA): ['is granted', 'is granted']- GRANTED
+2018 WL 3007203 (BIA): ['is denied', 'is remanded', 'is vacated', 'will be granted']- DENIED
+2018 WL 3007202 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2018 WL 3007178 (BIA): ['is dismissed', 'will be dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2018 WL 3007177 (BIA): ['is denied', 'find no error']- DENIED
+2018 WL 3045848 (BIA): ['is granted', 'will be granted']- GRANTED
+2018 WL 3045844 (BIA): ['is dismissed']- DENIED
+2018 WL 3045840 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 3045836 (BIA): ['is dismissed']- DENIED
+2018 WL 3045833 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 3045829 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 3045812 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 3045813 (BIA): ['is granted', 'will be granted']- GRANTED
+2018 WL 3045809 (BIA): ['is denied', 'is remanded', 'are vacated', 'is vacated', 'is granted', 'grant the motion', 'will be granted']- DENIED
+2018 WL 3045808 (BIA): ['is remanded']- GRANTED
+2018 WL 3416272 (BIA): ['is denied', 'is denied', 'is dismissed', 'is granted']- DENIED
+2018 WL 3416267 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2018 WL 3416269 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2018 WL 3416245 (BIA): ['is remanded', 'is sustained']- GRANTED
+2018 WL 3416232 (BIA): ['is dismissed']- DENIED
+2018 WL 3416218 (BIA): ['is vacated', 'is denied', 'is dismissed', 'will be dismissed']- GRANTED
+2018 WL 3969115 (BIA): ['are denied']- DENIED
+2018 WL 3969119 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 3969107 (BIA): ['is denied', 'The respondent’s motion is untimely', 'motion to reopen will be denied']- DENIED
+2018 WL 3969085 (BIA): ['is denied', 'is dismissed', 'The respondent’s motion is untimely', 'will be dismissed']- DENIED
+2018 WL 4002319 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 4002320 (BIA): ['is remanded', 'is sustained']- GRANTED
+2018 WL 4002316 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 4002300 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 4002303 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 4002277 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2018 WL 7572470 (BIA): ['is denied', 'is denied']- DENIED
+2018 WL 4002273 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2018 WL 4002256 (BIA): ['is denied']- DENIED
+2018 WL 4002260 (BIA): ['is denied', 'is denied', 'is denied', 'is granted', 'is denied']- DENIED
+2018 WL 4611528 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 4611514 (BIA): ['is dismissed', 'is granted', 'will be dismissed']- DENIED
+2018 WL 4611510 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2018 WL 4611504 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 4611474 (BIA): ['is remanded']- GRANTED
+2018 WL 4692860 (BIA): ['is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2018 WL 4692861 (BIA): ['is remanded', 'is sustained']- GRANTED
+2018 WL 4692855 (BIA): ['is granted', 'will be granted']- GRANTED
+2018 WL 4692839 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2018 WL 4692814 (BIA): ['is granted']- GRANTED
+2018 WL 5921078 (BIA): ['is sustained', 'is vacated', 'will be granted']- GRANTED
+2018 WL 5921057 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 5921059 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 5921038 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 5921026 (BIA): ['are denied', 'is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2018 WL 6618242 (BIA): ['is remanded', 'is denied']- GRANTED
+2018 WL 6618244 (BIA): ['is denied', 'find no error']- DENIED
+2018 WL 6618229 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2018 WL 7435862 (BIA): ['is denied']- DENIED
+2018 WL 7435855 (BIA): ['are denied']- DENIED
+2018 WL 7435840 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 7435824 (BIA): ['is denied']- DENIED
+2018 WL 7572449 (BIA): ['is denied']- DENIED
+2018 WL 8062978 (BIA): ['is remanded', 'is denied', 'will be granted']- GRANTED
+2018 WL 8062953 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 8062949 (BIA): ['is dismissed', 'will be dismissed', 'will be granted', 'will be dismissed']- DENIED
+2018 WL 8062943 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2018 WL 8333466 (BIA): ['is denied', 'is denied']- DENIED
+2019 WL 2160093 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2019 WL 2160106 (BIA): ['are denied']- DENIED
+2019 WL 2160112 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2019 WL 2464429 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2019 WL 2464452 (BIA): ['is granted', 'will be granted']- GRANTED
+2019 WL 2464461 (BIA): ['is denied', 'find no error']- DENIED
+2019 WL 2464463 (BIA): ['are denied', 'is dismissed', 'will be dismissed']- DENIED
+2019 WL 2464466 (BIA): ['is remanded']- GRANTED
+2019 WL 2613110 (BIA): ['is denied', 'is remanded', 'is granted', 'will be granted']- DENIED
+2019 WL 2613122 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2019 WL 2613143 (BIA): ['is remanded', 'is remanded']- GRANTED
+2019 WL 2613162 (BIA): ['is denied', 'is dismissed', 'find no error', 'will be dismissed']- DENIED
+2019 WL 3776097 (BIA): ['is denied', 'is remanded', 'is granted', 'will be granted']- DENIED
+2019 WL 3857808 (BIA): ['is denied']- DENIED
+2019 WL 3857814 (BIA): ['is remanded', 'is sustained']- GRANTED
+2019 WL 3857821 (BIA): ['is denied']- DENIED
+2019 WL 4054064 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2019 WL 4054073 (BIA): ['is granted', 'will be granted']- GRANTED
+2019 WL 4054076 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2019 WL 5067253 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2019 WL 5067256 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2019 WL 5086727 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2019 WL 7168746 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2019 WL 7168758 (BIA): ['is dismissed']- DENIED
+2019 WL 7168783 (BIA): ['is remanded']- GRANTED
+2019 WL 7833272 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+27 I. & N. Dec. 709 (BIA), Interim Decision 3970, 2019 WL 6700155: ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2019 WL 8197754 (BIA): ['is denied']- DENIED
+2019 WL 8197755 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2019 WL 8197759 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2020 WL 1169210 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2020 WL 1244522 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2020 WL 1244527 (BIA): ['is denied', 'is dismissed', 'is granted', 'is granted', 'will be dismissed']- DENIED
+2020 WL 1244530 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2020 WL 1244535 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2004 WL 2943594 (BIA): ['is denied']- DENIED
+2004 WL 2943587 (BIA): ['is remanded', 'grant the motion']- GRANTED
+2004 WL 2943591 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2004 WL 2943478 (BIA): ['is denied']- DENIED
+2004 WL 2943493 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 2943500 (BIA): ['is dismissed']- DENIED
+2004 WL 2943510 (BIA): ['is denied']- DENIED
+2004 WL 2952127 (BIA): ['We adopt and affirm the decision']- DENIED
+2004 WL 2952089 (BIA): ['is denied', 'find no error', 'is dismissed']- DENIED
+2004 WL 2952096 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2004 WL 2943597 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2952069 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 2952146 (BIA): ['is denied']- DENIED
+2004 WL 2952142 (BIA): ['is dismissed']- DENIED
+2004 WL 2952296 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2952153 (BIA): ['is denied', 'find no error', 'is dismissed']- DENIED
+2004 WL 2952178 (BIA): ['we have dismissed', 'the appeal is untimely']- DENIED
+2004 WL 2952170 (BIA): ['is dismissed']- DENIED
+2004 WL 2952230 (BIA): ['is denied', 'is granted']- DENIED
+2004 WL 2952269 (BIA): ['is dismissed', 'is denied', 'We adopt and affirm the decision']- DENIED
+2004 WL 2952242 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2004 WL 2952271 (BIA): ['is denied']- DENIED
+2004 WL 2952273 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 2952247 (BIA): ['is denied']- DENIED
+2004 WL 2952249 (BIA): ['is denied']- DENIED
+2004 WL 2952236 (BIA): ['is denied']- DENIED
+2004 WL 2952228 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2952223 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 2952216 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 2952329 (BIA): ['is remanded', 'will be granted']- GRANTED
+2004 WL 3187272 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 3187276 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2004 WL 3187304 (BIA): ['is dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2004 WL 3187300 (BIA): ['is dismissed']- DENIED
+2004 WL 3187321 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 3187331 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 3187315 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2004 WL 3187324 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 3187312 (BIA): ['is denied']- DENIED
+2004 WL 3187212 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2004 WL 3187194 (BIA): ['is dismissed']- DENIED
+2004 WL 3187220 (BIA): ['is, therefore, denied', 'is denied']- DENIED
+2004 WL 3187214 (BIA): ['is remanded', 'will be granted']- GRANTED
+2004 WL 3187234 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 3187225 (BIA): ['is dismissed', 'is denied', 'is denied', 'is denied', 'is dismissed']- DENIED
+2004 WL 3444375 (BIA): ['We adopt and affirm the decision']- DENIED
+2004 WL 3187263 (BIA): ['is remanded', 'is vacated', 'is granted', 'remand this case', 'will be granted']- GRANTED
+2005 WL 649088 (BIA): ['is denied']- DENIED
+2005 WL 649126 (BIA): ['is remanded', 'is sustained']- GRANTED
+2005 WL 649119 (BIA): ['remand this case']- GRANTED
+2005 WL 649128 (BIA): ['is denied', 'will be granted', 'motion to reopen will be denied']- DENIED
+2005 WL 649120 (BIA): ['dismiss the appeal']- DENIED
+2005 WL 649142 (BIA): ['is denied']- DENIED
+2005 WL 649132 (BIA): ['is dismissed']- DENIED
+2005 WL 649139 (BIA): ['is sustained']- GRANTED
+2005 WL 649177 (BIA): ['is affirmed', 'is vacated', 'is granted', 'will be granted']- DENIED
+2005 WL 649190 (BIA): ['is denied']- DENIED
+2005 WL 649182 (BIA): ['is dismissed', 'is affirmed', 'is dismissed']- DENIED
+2005 WL 649194 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2005 WL 649146 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2005 WL 1104560 (BIA): ['is vacated', 'motion to reopen will be denied']- GRANTED
+2005 WL 1104616 (BIA): ['is remanded', 'is granted', 'is dismissed', 'is hereby vacated', 'will be granted']- GRANTED
+2005 WL 1104617 (BIA): ['is denied']- DENIED
+2005 WL 1104603 (BIA): ['is denied', 'is denied', 'is dismissed', 'is vacated', 'will be dismissed']- DENIED
+2005 WL 1104600 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2005 WL 649073 (BIA): ['is denied']- DENIED
+2005 WL 649027 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2005 WL 649048 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2005 WL 649054 (BIA): ['is denied', 'is denied']- DENIED
+2005 WL 698496 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 698519 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2005 WL 698523 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2005 WL 698525 (BIA): ['is granted', 'will be granted']- GRANTED
+2005 WL 698591 (BIA): ['is affirmed']- DENIED
+2005 WL 698530 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2005 WL 698588 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2005 WL 698540 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2005 WL 698537 (BIA): ['is denied']- DENIED
+2005 WL 698555 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2005 WL 698551 (BIA): ['is denied']- DENIED
+2005 WL 698554 (BIA): ['is denied', 'find no error']- DENIED
+2005 WL 698565 (BIA): ['is denied']- DENIED
+2005 WL 698337 (BIA): ['is denied', 'is dismissed', 'will be dismissed', 'find no error', 'will be dismissed']- DENIED
+2005 WL 698342 (BIA): ['are vacated']- GRANTED
+2005 WL 698330 (BIA): ['is vacated']- GRANTED
+2005 WL 698362 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2005 WL 698353 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2005 WL 698359 (BIA): ['is sustained']- GRANTED
+2005 WL 698364 (BIA): ['is denied']- DENIED
+2005 WL 698298 (BIA): ['is denied']- DENIED
+2005 WL 698292 (BIA): ['are denied', 'will be granted', 'is denied']- DENIED
+2005 WL 698302 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2005 WL 698428 (BIA): ['is dismissed']- DENIED
+2005 WL 698444 (BIA): ['is, therefore, denied']- DENIED
+2005 WL 698451 (BIA): ['is denied']- DENIED
+2005 WL 698449 (BIA): ['we hold that reopening is not warranted']- DENIED
+2005 WL 698471 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2005 WL 698476 (BIA): ['is denied', 'is denied']- DENIED
+2005 WL 698424 (BIA): ['is dismissed']- DENIED
+2005 WL 698411 (BIA): ['we have dismissed', 'the appeal is untimely']- DENIED
+2006 WL 3252576 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3485670 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3203685 (BIA): ['is dismissed']- DENIED
+2006 WL 3203680 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2006 WL 3203637 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3203696 (BIA): ['is denied']- DENIED
+2006 WL 3088950 (BIA): ['is remanded', 'is granted']- GRANTED
+2006 WL 3088952 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3088963 (BIA): ['is remanded']- GRANTED
+2006 WL 3088826 (BIA): ['is dismissed']- DENIED
+2006 WL 3088913 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3088693 (BIA): ['is dismissed', 'is affirmed']- DENIED
+2006 WL 3203596 (BIA): ['is denied']- DENIED
+2006 WL 3088895 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3088897 (BIA): ['is denied']- DENIED
+2006 WL 3088898 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2006 WL 3088894 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3088919 (BIA): ['is dismissed']- DENIED
+2006 WL 3088916 (BIA): ['is affirmed']- DENIED
+2006 WL 3088698 (BIA): ['motion to reopen will be denied']- DENIED
+2006 WL 3088682 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2006 WL 3088705 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3088735 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2006 WL 3088868 (BIA): ['is sustained']- GRANTED
+2006 WL 3088874 (BIA): ['is dismissed']- DENIED
+2006 WL 3203627 (BIA): ['is denied', 'is denied', 'find no error']- DENIED
+2006 WL 3203616 (BIA): ['is remanded']- GRANTED
+2006 WL 3485821 (BIA): ['is granted']- GRANTED
+2006 WL 3485699 (BIA): ['is denied']- DENIED
+2006 WL 3485686 (BIA): ['is remanded', 'will be granted']- GRANTED
+2006 WL 3485611 (BIA): ['is denied', 'motion to reopen will be denied', 'motion to reopen will be denied']- DENIED
+2006 WL 3485696 (BIA): ['is remanded']- GRANTED
+2006 WL 3485815 (BIA): ['is denied']- DENIED
+2006 WL 3485818 (BIA): ['is denied']- DENIED
+2006 WL 3485784 (BIA): ['is vacated', 'is sustained']- GRANTED
+2006 WL 3485789 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2006 WL 3485783 (BIA): ['is denied']- DENIED
+2006 WL 3485779 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2006 WL 3485761 (BIA): ['is denied']- DENIED
+2006 WL 3485801 (BIA): ['is denied', 'is denied']- DENIED
+2006 WL 3485802 (BIA): ['is remanded']- GRANTED
+2006 WL 3712710 (BIA): ['is dismissed']- DENIED
+2006 WL 3712705 (BIA): ['is dismissed']- DENIED
+2006 WL 3712506 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2006 WL 3712495 (BIA): ['is denied']- DENIED
+2006 WL 3712515 (BIA): ['is remanded', 'is granted', 'are vacated']- GRANTED
+2006 WL 3712502 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3922297 (BIA): ['is denied', 'is denied']- DENIED
+2006 WL 3712444 (BIA): ['is granted', 'is dismissed', 'will be dismissed']- GRANTED
+2006 WL 3712433 (BIA): ['is remanded', 'is granted', 'is granted', 'is granted', 'is granted']- GRANTED
+2006 WL 3712432 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2006 WL 3712539 (BIA): ['is denied', 'is dismissed', 'grant the motion', 'grant the motion', 'will be dismissed']- DENIED
+24 I. & N. Dec. 56 (BIA), Interim Decision 3548, 2006 WL 3540044: ['is denied']- DENIED
+2006 WL 3712528 (BIA): ['is remanded']- GRANTED
+2006 WL 3712522 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2006 WL 3922206 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2006 WL 3922226 (BIA): ['is denied']- DENIED
+2006 WL 3922166 (BIA): ['are vacated']- GRANTED
+2006 WL 3922159 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2006 WL 3922153 (BIA): ['is denied']- DENIED
+2006 WL 3922266 (BIA): ['is denied']- DENIED
+2006 WL 3922304 (BIA): ['are vacated']- GRANTED
+2006 WL 3922306 (BIA): ['is dismissed']- DENIED
+2006 WL 3922243 (BIA): ['is sustained', 'grant the motion']- GRANTED
+2007 WL 129752 (BIA): ['is sustained', 'is dismissed']- GRANTED
+2007 WL 275851 (BIA): ['is denied']- DENIED
+2007 WL 275724 (BIA): ['is remanded']- GRANTED
+2007 WL 275760 (BIA): ['is denied']- DENIED
+2007 WL 275778 (BIA): ['is denied']- DENIED
+2007 WL 275767 (BIA): ['is denied', 'is denied']- DENIED
+2007 WL 275812 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2007 WL 275828 (BIA): ['is dismissed']- DENIED
+2007 WL 275837 (BIA): ['is remanded', 'will be granted']- GRANTED
+2007 WL 275801 (BIA): ['is dismissed']- DENIED
+2007 WL 275806 (BIA): ['is denied']- DENIED
+2007 WL 275736 (BIA): ['is remanded', 'is sustained']- GRANTED
+2007 WL 275803 (BIA): ['is denied']- DENIED
+2007 WL 416830 (BIA): ['is dismissed']- DENIED
+2007 WL 416805 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 686632 (BIA): ['is denied']- DENIED
+2007 WL 686991 (BIA): ['is remanded', 'is sustained']- GRANTED
+2007 WL 687291 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2007 WL 926773 (BIA): ['is denied', 'motion to reopen will be denied', 'is granted']- DENIED
+2007 WL 1154067 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1153991 (BIA): ['is dismissed']- DENIED
+2007 WL 1153992 (BIA): ['is dismissed']- DENIED
+2007 WL 1153988 (BIA): []*******ERROR: 2007 WL 1153988 (BIA) has no result*************
+2007 WL 1129168 (BIA): ['is denied']- DENIED
+2007 WL 1125819 (BIA): ['is granted', 'is denied', 'find no error', 'is denied']- GRANTED
+24 I. & N. Dec. 87 (BIA), Interim Decision 3552, 2007 WL 549761: ['is remanded', 'is granted', 'are vacated', 'grant the motion']- GRANTED
+2007 WL 1125667 (BIA): ['is dismissed']- DENIED
+2007 WL 1123220 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 927159 (BIA): ['is denied', 'is dismissed']- DENIED
+2007 WL 1168658 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2007 WL 1168515 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+19 I. & N. Dec. 105 (BIA), Interim Decision 2969, 1984 WL 48592: ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+19 I. & N. Dec. 637 (BIA), Interim Decision 3059, 1988 WL 235454: ['is denied']- DENIED
+20 I. & N. Dec. 116 (BIA), Interim Decision 3121, 1989 WL 331875: ['is remanded']- GRANTED
+2010 WL 4035467 (BIA): ['is denied', 'is dismissed', 'is granted']- DENIED
+2010 WL 4035459 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2010 WL 4035455 (BIA): ['is sustained']- GRANTED
+2010 WL 4035457 (BIA): ['is denied', 'find no error']- DENIED
+2010 WL 4035453 (BIA): ['is denied', 'is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 4035474 (BIA): ['is, therefore, denied']- DENIED
+2010 WL 4035478 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 4035408 (BIA): ['is dismissed', 'is granted']- DENIED
+2010 WL 4035397 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2010 WL 4035398 (BIA): ['is sustained']- GRANTED
+2010 WL 4035390 (BIA): ['is granted', 'is denied']- GRANTED
+2010 WL 4213370 (BIA): ['is denied', 'are denied']- DENIED
+2010 WL 4213304 (BIA): ['is denied']- DENIED
+2010 WL 4213279 (BIA): ['is dismissed', 'is granted']- DENIED
+2010 WL 4213263 (BIA): ['will be granted']- GRANTED
+2010 WL 4213253 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2010 WL 4213224 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2010 WL 4500891 (BIA): ['is vacated', 'is denied', 'will be granted']- GRANTED
+2010 WL 4500889 (BIA): ['is remanded', 'remand this case', 'is granted']- GRANTED
+2010 WL 4500901 (BIA): ['is dismissed', 'is granted', 'will be dismissed']- DENIED
+2010 WL 4500915 (BIA): ['is remanded', 'grant the motion', 'will be granted']- GRANTED
+2010 WL 4500896 (BIA): ['grant the motion']- GRANTED
+2010 WL 4509767 (BIA): ['is vacated', 'is dismissed', 'will be dismissed']- GRANTED
+2010 WL 4509785 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 4500876 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 4500872 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2010 WL 4509741 (BIA): ['is denied', 'is denied', 'is denied', 'is denied']- DENIED
+2010 WL 4509729 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2010 WL 4509746 (BIA): ['is denied']- DENIED
+2010 WL 4509744 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 5635165 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 4822992 (BIA): ['is remanded', 'grant the motion', 'grant the motion', 'will be granted']- GRANTED
+2010 WL 4822996 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2010 WL 4823002 (BIA): ['is granted', 'will be granted']- GRANTED
+2010 WL 4822976 (BIA): ['grant the motion', 'is dismissed', 'will be dismissed']- GRANTED
+2010 WL 4823003 (BIA): ['is remanded', 'is sustained']- GRANTED
+2010 WL 4822956 (BIA): ['is remanded', 'is hereby granted', 'is denied', 'is vacated', 'will be granted', 'find no error']- GRANTED
+2010 WL 4822966 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2010 WL 4972448 (BIA): ['are denied']- DENIED
+2010 WL 4972439 (BIA): ['is denied']- DENIED
+2010 WL 4971021 (BIA): ['is denied', 'is denied']- DENIED
+2010 WL 4971022 (BIA): ['is denied']- DENIED
+2010 WL 4971023 (BIA): ['is denied', 'is denied']- DENIED
+2010 WL 4971042 (BIA): ['is denied', 'is denied', 'is dismissed', 'will be dismissed']- DENIED
+2010 WL 4971050 (BIA): ['will be granted']- GRANTED
+2010 WL 4971012 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 5173948 (BIA): ['is remanded', 'are granted']- GRANTED
+2010 WL 5173941 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 5173940 (BIA): ['are remanded', 'grant the motion']- GRANTED
+2010 WL 5635164 (BIA): ['is dismissed', 'is affirmed', 'grant the motion', 'will be dismissed']- DENIED
+2010 WL 5635035 (BIA): ['find no error']- DENIED
+2010 WL 5635169 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2010 WL 5635168 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 5559186 (BIA): ['is sustained']- GRANTED
+2010 WL 5559196 (BIA): ['is sustained']- GRANTED
+2010 WL 5559146 (BIA): ['is denied']- DENIED
+2010 WL 5559137 (BIA): ['is denied', 'is denied']- DENIED
+2010 WL 5559140 (BIA): ['is vacated', 'will be granted']- GRANTED
+2010 WL 5559135 (BIA): ['are denied', 'The respondent’s motion is untimely']- DENIED
+2010 WL 5559159 (BIA): ['is denied']- DENIED
+2010 WL 5559160 (BIA): ['the appeal is untimely']- DENIED
+2010 WL 5559161 (BIA): ['is dismissed', 'is granted']- DENIED
+2010 WL 5635031 (BIA): ['is denied']- DENIED
+2011 WL 229608 (BIA): ['is denied']- DENIED
+2011 WL 230748 (BIA): ['are denied']- DENIED
+2011 WL 230762 (BIA): ['is remanded', 'will be granted', 'is vacated']- GRANTED
+2011 WL 230754 (BIA): ['is denied']- DENIED
+2011 WL 230773 (BIA): ['is dismissed', 'will be dismissed', 'find no error']- DENIED
+2011 WL 230775 (BIA): []*******ERROR: 2011 WL 230775 (BIA) has no result*************
+2011 WL 400461 (BIA): ['is denied', 'The respondent’s motion is untimely', 'is denied']- DENIED
+2011 WL 400431 (BIA): ['is remanded']- GRANTED
+2011 WL 400432 (BIA): ['are denied', 'is denied']- DENIED
+2011 WL 585584 (BIA): ['is denied']- DENIED
+2011 WL 585576 (BIA): ['is denied']- DENIED
+2011 WL 585597 (BIA): ['is remanded', 'remand this case']- GRANTED
+2011 WL 585596 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 585613 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 899591 (BIA): ['is remanded', 'is vacated']- GRANTED
+2011 WL 899596 (BIA): ['will be dismissed']- DENIED
+2011 WL 899597 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2011 WL 899595 (BIA): ['is granted', 'is vacated', 'is vacated']- GRANTED
+2011 WL 891898 (BIA): ['is denied', 'is denied']- DENIED
+2011 WL 891899 (BIA): ['are denied']- DENIED
+2011 WL 891885 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2011 WL 891891 (BIA): ['is vacated']- GRANTED
+2011 WL 891876 (BIA): ['is denied', 'is denied', 'motion to reopen will be denied']- DENIED
+2011 WL 891878 (BIA): ['are denied', 'motion to reopen will be denied']- DENIED
+2011 WL 891905 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2011 WL 1373681 (BIA): ['is denied', 'is denied']- DENIED
+2011 WL 1373645 (BIA): ['is remanded', 'will be granted', 'will be granted']- GRANTED
+2011 WL 1373642 (BIA): ['is remanded', 'is denied']- GRANTED
+2011 WL 1373702 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2011 WL 1373695 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 1373694 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2011 WL 1373719 (BIA): ['is remanded', 'is granted', 'will be granted', 'grant the motion']- GRANTED
+2011 WL 1373403 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2011 WL 1373408 (BIA): ['is denied']- DENIED
+2011 WL 1373397 (BIA): ['is denied', 'is granted']- DENIED
+2011 WL 1373400 (BIA): ['is denied', 'is denied']- DENIED
+2011 WL 1570476 (BIA): ['is vacated', 'is sustained']- GRANTED
+21 I. & N. Dec. 472 (BIA), Interim Decision 3284, 1996 WL 413571: ['is sustained']- GRANTED
+21 I. & N. Dec. 599 (BIA), Interim Decision 3296, 1996 WL 580694: ['is dismissed', 'will be dismissed', 'grant the motion', 'will be dismissed']- DENIED
+21 I. & N. Dec. 879 (BIA), Interim Decision 3312, 1997 WL 123906: ['is remanded', 'grant the motion', 'will be granted']- GRANTED
+21 I. & N. Dec. 1106 (BIA), Interim Decision 3336, 1998 WL 99553: ['is dismissed']- DENIED
+22 I. & N. Dec. 140 (BIA), Interim Decision 3357, 1998 WL 422064: ['is vacated', 'is denied']- GRANTED
+22 I. & N. Dec. 113 (BIA), Interim Decision 3356, 1998 WL 422061: ['is denied']- DENIED
+22 I. & N. Dec. 309 (BIA), Interim Decision 3367, 1998 WL 694640: ['is dismissed', 'will be dismissed']- DENIED
+22 I. & N. Dec. 552 (BIA), Interim Decision 3379, 1999 WL 126436: ['is denied', 'is dismissed', 'find no error', 'will be dismissed']- DENIED
+22 I. & N. Dec. 1155 (BIA), Interim Decision 3420, 1999 WL 1390342: ['is dismissed']- DENIED
+22 I. & N. Dec. 1216 (BIA), Interim Decision 3425, 2000 WL 41584: ['remand this case', 'is denied', 'motion to reopen will be denied', 'is denied', 'is granted']- GRANTED
+23 I. & N. Dec. 74 (BIA), Interim Decision 3448, 2001 WL 534296: ['is remanded', 'is sustained']- GRANTED
+23 I. & N. Dec. 553 (BIA), Interim Decision 3487, 2003 WL 327497: ['is dismissed', 'will be dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2003 WL 25837526 (BIA): ['is denied']- DENIED
+2003 WL 23216772 (BIA): ['is remanded', 'will be granted']- GRANTED
+2003 WL 23216748 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2003 WL 23216753 (BIA): ['is denied']- DENIED
+2003 WL 23216945 (BIA): ['we have dismissed', 'the appeal is untimely']- DENIED
+2003 WL 23216881 (BIA): ['is dismissed']- DENIED
+2003 WL 23216936 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2003 WL 23216892 (BIA): ['is remanded']- GRANTED
+2003 WL 23216862 (BIA): ['is denied']- DENIED
+2003 WL 23216916 (BIA): ['is dismissed', 'is granted']- DENIED
+2003 WL 23216813 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2003 WL 23216831 (BIA): ['is dismissed']- DENIED
+2003 WL 23216841 (BIA): ['is, therefore, denied']- DENIED
+2003 WL 23216850 (BIA): ['is denied']- DENIED
+2003 WL 23216812 (BIA): ['is denied']- DENIED
+2003 WL 23216780 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2003 WL 23270018 (BIA): ['is denied']- DENIED
+2003 WL 23269887 (BIA): ['is denied']- DENIED
+2003 WL 23269884 (BIA): ['is denied']- DENIED
+2003 WL 23269968 (BIA): ['is dismissed']- DENIED
+2003 WL 23269955 (BIA): ['is dismissed']- DENIED
+2003 WL 23270179 (BIA): ['is, therefore, denied']- DENIED
+2003 WL 23270189 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2003 WL 23270061 (BIA): ['is denied', 'is denied']- DENIED
+2003 WL 23270044 (BIA): ['are, therefore, denied']- DENIED
+2003 WL 23270091 (BIA): ['is dismissed']- DENIED
+2003 WL 23270145 (BIA): ['is remanded', 'is sustained', 'remand this case']- GRANTED
+2003 WL 23270142 (BIA): []*******ERROR: 2003 WL 23270142 (BIA) has no result*************
+2003 WL 23270101 (BIA): ['The respondent’s motion is untimely']- DENIED
+2003 WL 23270174 (BIA): ['We adopt and affirm the decision']- DENIED
+2003 WL 23521810 (BIA): ['is denied']- DENIED
+2003 WL 23521839 (BIA): ['is dismissed', 'dismiss the appeal', 'dismiss the appeal']- DENIED
+2003 WL 23521835 (BIA): ['is denied']- DENIED
+2003 WL 23521856 (BIA): ['is, therefore, denied']- DENIED
+2003 WL 23521852 (BIA): ['is denied']- DENIED
+2003 WL 23521846 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2003 WL 23521862 (BIA): ['is dismissed']- DENIED
+2003 WL 23521864 (BIA): ['is remanded', 'is granted', 'grant the motion', 'will be granted']- GRANTED
+2003 WL 23521873 (BIA): ['is denied', 'is denied']- DENIED
+2003 WL 23521886 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2003 WL 23521897 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2003 WL 23521906 (BIA): ['is denied', 'is denied']- DENIED
+2003 WL 23508444 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2003 WL 23508436 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2003 WL 23508455 (BIA): ['we have dismissed', 'the appeal is untimely']- DENIED
+2003 WL 23508463 (BIA): ['is remanded', 'is dismissed', 'will be dismissed']- GRANTED
+2003 WL 23508468 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2003 WL 23508451 (BIA): ['is denied']- DENIED
+2003 WL 23508503 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2003 WL 23508509 (BIA): ['is denied']- DENIED
+2003 WL 23508482 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2003 WL 23269929 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2003 WL 23269868 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2003 WL 23269920 (BIA): ['is vacated', 'is granted', 'will be granted']- GRANTED
+2003 WL 23269917 (BIA): ['the appeal is untimely']- DENIED
+2003 WL 23269894 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2003 WL 23269877 (BIA): ['is granted', 'is granted', 'is granted', 'will be granted']- GRANTED
+2003 WL 23269873 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2003 WL 23269899 (BIA): ['is remanded']- GRANTED
+2003 WL 23508710 (BIA): []*******ERROR: 2003 WL 23508710 (BIA) has no result*************
+2003 WL 23508644 (BIA): ['is remanded', 'is vacated', 'will be granted']- GRANTED
+2003 WL 23508693 (BIA): ['is denied']- DENIED
+2003 WL 23508680 (BIA): ['is denied']- DENIED
+2003 WL 23508677 (BIA): ['is denied']- DENIED
+2003 WL 23508563 (BIA): ['is denied']- DENIED
+2003 WL 23508656 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2003 WL 23508570 (BIA): ['is denied']- DENIED
+2003 WL 23508567 (BIA): ['is denied']- DENIED
+2003 WL 23508538 (BIA): ['is dismissed']- DENIED
+2003 WL 23508533 (BIA): ['is denied']- DENIED
+2003 WL 23508535 (BIA): ['is remanded', 'is sustained']- GRANTED
+2004 WL 1059641 (BIA): ['the appeal is untimely']- DENIED
+2004 WL 1059643 (BIA): ['is denied']- DENIED
+2004 WL 1059638 (BIA): ['is denied']- DENIED
+2004 WL 1059715 (BIA): ['is denied']- DENIED
+2004 WL 1059714 (BIA): ['is denied']- DENIED
+2004 WL 1059690 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2004 WL 1059691 (BIA): ['the appeal is untimely', 'the appeal is untimely']- DENIED
+2004 WL 1059701 (BIA): ['we have dismissed', 'the appeal is untimely']- DENIED
+2004 WL 1059674 (BIA): ['is remanded', 'is granted', 'is granted']- GRANTED
+2004 WL 1059649 (BIA): ['is denied']- DENIED
+2004 WL 1059658 (BIA): ['find no error', 'find no error', 'We adopt and affirm the decision']- DENIED
+2004 WL 1167282 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1167268 (BIA): ['is denied']- DENIED
+2004 WL 1167315 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1167291 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1167285 (BIA): ['is granted', 'is denied', 'is denied']- GRANTED
+2004 WL 1167339 (BIA): ['is dismissed']- DENIED
+2012 WL 371654 (BIA): ['is denied']- DENIED
+2012 WL 371699 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 371693 (BIA): ['is denied']- DENIED
+2012 WL 371694 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2012 WL 371692 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 527506 (BIA): ['is denied', 'is denied', 'is granted']- DENIED
+2012 WL 527500 (BIA): ['is sustained']- GRANTED
+2012 WL 527512 (BIA): ['is denied']- DENIED
+2012 WL 691491 (BIA): ['are denied']- DENIED
+2012 WL 691463 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 691458 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 911847 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 911853 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 1495549 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 1495575 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 1495544 (BIA): ['is denied']- DENIED
+2012 WL 1495541 (BIA): ['is denied']- DENIED
+2012 WL 1495591 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2012 WL 1495577 (BIA): ['are denied', 'is dismissed', 'will be dismissed']- DENIED
+2012 WL 1495576 (BIA): ['is denied']- DENIED
+2012 WL 1495579 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 1495511 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 1495505 (BIA): ['is sustained']- GRANTED
+2012 WL 1495531 (BIA): ['is denied']- DENIED
+25 I. & N. Dec. 748 (BIA), Interim Decision 3746, 2012 WL 1386852: ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 1705669 (BIA): ['is dismissed', 'will be granted']- DENIED
+2012 WL 1705670 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2012 WL 1705646 (BIA): ['is denied']- DENIED
+2012 WL 1705614 (BIA): ['is denied', 'is denied']- DENIED
+2012 WL 1705647 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 1705618 (BIA): ['is denied', 'is denied']- DENIED
+2012 WL 1705600 (BIA): ['is denied']- DENIED
+2012 WL 1705613 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2012 WL 1705582 (BIA): ['is dismissed']- DENIED
+2012 WL 1951064 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 1951066 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 8305100 (BIA): ['is remanded']- GRANTED
+2012 WL 8305101 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2012 WL 2253017 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 2252972 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2012 WL 2252948 (BIA): ['we have dismissed', 'the appeal is untimely']- DENIED
+2012 WL 2870254 (BIA): ['is dismissed']- DENIED
+2012 WL 2870244 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 2870258 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 2870240 (BIA): ['is denied', 'is denied']- DENIED
+2012 WL 2835240 (BIA): ['is denied', 'is dismissed', 'remand this case', 'will be dismissed', 'is granted']- DENIED
+2012 WL 2835234 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2012 WL 2835232 (BIA): ['is vacated', 'is dismissed']- GRANTED
+2012 WL 2835227 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 2835224 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 2835217 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 2835215 (BIA): ['is denied']- DENIED
+2012 WL 2834968 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2012 WL 2834987 (BIA): ['is remanded']- GRANTED
+2012 WL 3276552 (BIA): ['is granted', 'are denied']- GRANTED
+2012 WL 3276543 (BIA): ['is denied']- DENIED
+2012 WL 3276561 (BIA): ['is denied']- DENIED
+2012 WL 3276585 (BIA): ['is sustained']- GRANTED
+2012 WL 3276580 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 3277120 (BIA): ['is dismissed', 'is granted']- DENIED
+2012 WL 3911707 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2012 WL 3911658 (BIA): ['is denied']- DENIED
+2012 WL 3911787 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 3911780 (BIA): ['is remanded', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2012 WL 3911746 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 3911832 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 3911848 (BIA): ['is dismissed', 'is vacated']- DENIED
+2012 WL 3911799 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 3911846 (BIA): ['is denied', 'is denied', 'motion to reopen will be denied']- DENIED
+2012 WL 3911845 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 3911836 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2012 WL 3911861 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 3911858 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 3911874 (BIA): ['is sustained']- GRANTED
+2012 WL 5178809 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 5178845 (BIA): ['is remanded']- GRANTED
+2012 WL 5178824 (BIA): ['is sustained']- GRANTED
+2012 WL 5178735 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2012 WL 5178738 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 5178758 (BIA): ['is denied']- DENIED
+2012 WL 5178753 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2012 WL 5178750 (BIA): ['is denied', 'is denied']- DENIED
+2012 WL 5178747 (BIA): ['is denied', 'is denied']- DENIED
+2012 WL 5178741 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2012 WL 5178779 (BIA): []*******ERROR: 2012 WL 5178779 (BIA) has no result*************
+2012 WL 5178781 (BIA): ['is remanded', 'is sustained']- GRANTED
+2012 WL 5178776 (BIA): ['is dismissed', 'is granted', 'are dismissing', 'dismiss the appeal', 'will be granted']- DENIED
+2012 WL 5473631 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2012 WL 5473632 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 5473628 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2012 WL 5473619 (BIA): ['is denied']- DENIED
+2012 WL 5473620 (BIA): ['is denied']- DENIED
+2012 WL 5473615 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 5473650 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 5473646 (BIA): ['is denied']- DENIED
+2012 WL 5473635 (BIA): ['is denied']- DENIED
+2012 WL 5473633 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2012 WL 8745833 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2012 WL 5473677 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2012 WL 5473671 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2017 WL 1951560 (BIA): ['are dismissing', 'the appeal is untimely']- DENIED
+2017 WL 1951554 (BIA): ['is denied', 'find no error', 'find no error']- DENIED
+2017 WL 1951542 (BIA): ['is remanded', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2017 WL 1951553 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2017 WL 1951530 (BIA): ['is remanded', 'is vacated']- GRANTED
+2017 WL 1951512 (BIA): ['is denied', 'is denied']- DENIED
+2017 WL 1951511 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2017 WL 2376466 (BIA): ['is remanded']- GRANTED
+2017 WL 2376448 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 2570248 (BIA): ['are denied', 'is denied']- DENIED
+2017 WL 2570245 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4736614 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2017 WL 2570237 (BIA): ['is remanded', 'is sustained']- GRANTED
+2017 WL 2570223 (BIA): ['is denied']- DENIED
+2017 WL 2570214 (BIA): ['is remanded', 'will be granted']- GRANTED
+2017 WL 2570215 (BIA): []*******ERROR: 2017 WL 2570215 (BIA) has no result*************
+2017 WL 2570191 (BIA): ['is dismissed', 'will be dismissed', 'grant the motion', 'will be dismissed']- DENIED
+2017 WL 3382740 (BIA): ['is denied', 'is denied']- DENIED
+2017 WL 3382706 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2017 WL 3382695 (BIA): ['is denied']- DENIED
+2017 WL 4118942 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4118890 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4418379 (BIA): ['is denied', 'is denied']- DENIED
+2017 WL 4418376 (BIA): ['are denied']- DENIED
+2017 WL 4418329 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4418307 (BIA): ['is, therefore, denied']- DENIED
+2017 WL 4736640 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4736636 (BIA): ['is dismissed', 'is vacated', 'dismiss the appeal', 'will be dismissed']- DENIED
+2017 WL 4736620 (BIA): ['is denied', 'is denied']- DENIED
+2017 WL 4736612 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4946988 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4946949 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2017 WL 4946942 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4946937 (BIA): ['are sustained', 'is remanded', 'is granted']- GRANTED
+2017 WL 4946930 (BIA): ['is denied']- DENIED
+2017 WL 4946918 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 4946911 (BIA): ['are denied']- DENIED
+2017 WL 5377559 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 5377571 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 5377589 (BIA): ['is dismissed', 'is denied', 'will be granted', 'will be dismissed']- DENIED
+2017 WL 6555090 (BIA): ['is denied']- DENIED
+2017 WL 6555096 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 6555120 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 6555144 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 6555142 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2017 WL 6555159 (BIA): ['is denied']- DENIED
+2017 WL 6555164 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2017 WL 7660430 (BIA): []*******ERROR: 2017 WL 7660430 (BIA) has no result*************
+2017 WL 7660444 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2017 WL 7660462 (BIA): ['is denied']- DENIED
+2017 WL 7660464 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 7660501 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 7660503 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 8785891 (BIA): ['is remanded', 'is granted', 'grant the motion', 'will be granted']- GRANTED
+2017 WL 8785890 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 8785888 (BIA): ['is remanded']- GRANTED
+2017 WL 8785885 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 8785875 (BIA): ['is denied']- DENIED
+2017 WL 8785877 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 8785856 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 8785840 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 8787246 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2017 WL 8787235 (BIA): ['is denied']- DENIED
+2017 WL 8787207 (BIA): ['is denied', 'is denied', 'is granted']- DENIED
+2017 WL 8787194 (BIA): ['is denied']- DENIED
+2018 WL 1756897 (BIA): ['is denied', 'is denied']- DENIED
+2018 WL 1756894 (BIA): ['are denied']- DENIED
+2018 WL 1872023 (BIA): ['is denied']- DENIED
+2018 WL 1872017 (BIA): ['is denied', 'is denied']- DENIED
+2018 WL 1872002 (BIA): ['is denied']- DENIED
+2018 WL 1872005 (BIA): ['is remanded']- GRANTED
+2018 WL 1871988 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1871991 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1871980 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1871977 (BIA): ['is dismissed']- DENIED
+2018 WL 1871978 (BIA): ['is sustained']- GRANTED
+2018 WL 1871973 (BIA): ['is vacated', 'is dismissed', 'will be dismissed']- GRANTED
+2018 WL 3416219 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2018 WL 1871963 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1897746 (BIA): ['is denied']- DENIED
+2018 WL 1897753 (BIA): ['is remanded', 'is vacated', 'is granted', 'will be granted']- GRANTED
+2018 WL 1897741 (BIA): ['is denied']- DENIED
+2018 WL 1897739 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1897740 (BIA): ['is denied']- DENIED
+2018 WL 1897710 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1897699 (BIA): ['is denied']- DENIED
+2018 WL 1897706 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1897695 (BIA): ['is denied']- DENIED
+2018 WL 1897698 (BIA): ['is remanded', 'is sustained']- GRANTED
+2018 WL 1897683 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1897679 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2018 WL 1897680 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2018 WL 1897674 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2018 WL 1897665 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2018 WL 2761499 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2018 WL 2761487 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2018 WL 2761465 (BIA): ['is, hereby, denied']- DENIED
+2018 WL 2761453 (BIA): ['is denied', 'is denied', 'is denied', 'is granted']- DENIED
+2018 WL 2761442 (BIA): ['is denied', 'is denied']- DENIED
+2018 WL 2761416 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2010 WL 1251005 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 915626 (BIA): ['is sustained']- GRANTED
+2010 WL 1251043 (BIA): ['is dismissed', 'is dismissed', 'will be dismissed']- DENIED
+2010 WL 1250966 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 915601 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 1250997 (BIA): ['is denied']- DENIED
+2010 WL 915583 (BIA): ['is, therefore, denied']- DENIED
+2010 WL 915587 (BIA): ['is denied', 'is, therefore, denied']- DENIED
+2010 WL 1250982 (BIA): ['is, therefore, denied']- DENIED
+2010 WL 1250980 (BIA): ['is dismissed']- DENIED
+2010 WL 1250933 (BIA): ['is denied']- DENIED
+2010 WL 1250960 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 1250954 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 1284442 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 1284455 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 1607053 (BIA): ['is denied', 'is denied']- DENIED
+2010 WL 1607055 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 1607091 (BIA): ['is, therefore, denied']- DENIED
+2010 WL 1607090 (BIA): ['is remanded', 'is sustained']- GRANTED
+2010 WL 1607076 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 1607037 (BIA): ['is dismissed', 'find no error']- DENIED
+2010 WL 1607006 (BIA): ['is denied']- DENIED
+2010 WL 1606998 (BIA): ['is dismissed', 'is remanded', 'will be dismissed']- DENIED
+2010 WL 1606999 (BIA): ['is remanded', 'is granted']- GRANTED
+2010 WL 1606977 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2010 WL 1606976 (BIA): ['is dismissed', 'The respondent’s motion is untimely', 'find no error', 'will be dismissed']- DENIED
+2010 WL 1606961 (BIA): ['is vacated', 'is sustained']- GRANTED
+2010 WL 1606963 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2010 WL 1606954 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 1747423 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2010 WL 1747383 (BIA): ['is denied']- DENIED
+2010 WL 1976012 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2010 WL 1975939 (BIA): ['is remanded', 'is sustained']- GRANTED
+2010 WL 2224565 (BIA): ['is remanded', 'is sustained']- GRANTED
+2010 WL 2224549 (BIA): ['is remanded', 'will be granted']- GRANTED
+2010 WL 2224569 (BIA): ['is affirmed', 'will be dismissed']- DENIED
+2010 WL 2224574 (BIA): ['is denied']- DENIED
+2010 WL 2224571 (BIA): ['is dismissed']- DENIED
+2010 WL 2224589 (BIA): ['is denied', 'is denied']- DENIED
+2010 WL 2224601 (BIA): ['motion to reopen will be denied']- DENIED
+2010 WL 2224519 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 2224506 (BIA): ['is remanded']- GRANTED
+2010 WL 2224510 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 2224504 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2010 WL 2224505 (BIA): ['is remanded']- GRANTED
+2010 WL 2390766 (BIA): ['is remanded', 'will be granted']- GRANTED
+2010 WL 2390769 (BIA): ['is vacated', 'is denied', 'is granted']- GRANTED
+2010 WL 2390768 (BIA): ['is remanded', 'is vacated']- GRANTED
+2010 WL 2390771 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 2390777 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2010 WL 2390779 (BIA): ['is denied']- DENIED
+2010 WL 2390792 (BIA): ['is denied', 'is denied']- DENIED
+2010 WL 2390803 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 2390825 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 2390824 (BIA): ['is affirmed', 'is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2010 WL 2390835 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 2601499 (BIA): ['is denied', 'motion to reopen will be denied', 'The respondent’s motion is untimely']- DENIED
+2010 WL 2601508 (BIA): ['is denied']- DENIED
+2010 WL 2601540 (BIA): ['is remanded']- GRANTED
+2010 WL 2601539 (BIA): ['is dismissed', 'will be dismissed', 'is granted']- DENIED
+2010 WL 2846292 (BIA): ['is denied']- DENIED
+2010 WL 2846294 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 2846324 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 2846365 (BIA): ['is remanded', 'is sustained']- GRANTED
+2010 WL 2846346 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2010 WL 2846329 (BIA): ['is remanded', 'is granted']- GRANTED
+2010 WL 2846335 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 2846334 (BIA): ['is sustained']- GRANTED
+2010 WL 2846395 (BIA): ['is vacated', 'is granted']- GRANTED
+2010 WL 3027567 (BIA): ['is dismissed', 'will be dismissed', 'is granted']- DENIED
+2010 WL 3027574 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2010 WL 3027550 (BIA): ['is denied', 'find no error', 'find no error']- DENIED
+2010 WL 3027582 (BIA): ['is remanded', 'will be granted']- GRANTED
+2010 WL 3027587 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 3027616 (BIA): ['is remanded', 'is sustained']- GRANTED
+2010 WL 3027580 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 3027606 (BIA): ['is denied', 'is dismissed', 'find no error', 'find no error', 'will be dismissed']- DENIED
+2010 WL 3157454 (BIA): ['The respondent’s motion is untimely']- DENIED
+2010 WL 3157451 (BIA): ['is denied', 'is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 3355104 (BIA): ['is remanded']- GRANTED
+2010 WL 3355105 (BIA): ['is remanded', 'is sustained']- GRANTED
+2010 WL 3355096 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2010 WL 3355059 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 3355073 (BIA): ['is denied', 'is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 3355080 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 3536677 (BIA): ['is remanded', 'is vacated']- GRANTED
+2010 WL 3536704 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2010 WL 3536730 (BIA): ['is denied', 'is denied', 'motion to reopen will be denied', 'motion to reopen will be denied']- DENIED
+2010 WL 3536734 (BIA): ['is denied']- DENIED
+2010 WL 3536720 (BIA): ['is denied']- DENIED
+2010 WL 3780682 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 3780677 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 3780637 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2010 WL 3780656 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 3780657 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2010 WL 3780645 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 4035431 (BIA): ['is dismissed', 'is granted']- DENIED
+2010 WL 4035429 (BIA): ['is, therefore, denied']- DENIED
+2010 WL 4035450 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2010 WL 4035442 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2004 WL 1167344 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 1167366 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1167369 (BIA): ['the appeal is untimely']- DENIED
+2004 WL 1167362 (BIA): ['is denied']- DENIED
+2004 WL 5537104 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1167144 (BIA): ['is denied']- DENIED
+2004 WL 1167174 (BIA): ['is granted', 'is, therefore, denied']- GRANTED
+2004 WL 1167250 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2004 WL 1167219 (BIA): ['is denied', 'is dismissed', 'is denied', 'is dismissed', 'will be dismissed']- DENIED
+2004 WL 1167132 (BIA): ['is denied']- DENIED
+2004 WL 1167125 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2004 WL 1167215 (BIA): ['find no error']- DENIED
+2004 WL 1167060 (BIA): ['is denied']- DENIED
+2004 WL 1167189 (BIA): []*******ERROR: 2004 WL 1167189 (BIA) has no result*************
+2004 WL 1167188 (BIA): ['is denied']- DENIED
+2004 WL 1167078 (BIA): ['is denied']- DENIED
+2004 WL 1167080 (BIA): ['is remanded', 'is remanded']- GRANTED
+2004 WL 1167089 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 1167095 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 1167228 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 1167227 (BIA): ['is denied']- DENIED
+2004 WL 848555 (BIA): ['is denied']- DENIED
+2004 WL 848460 (BIA): ['is denied']- DENIED
+2004 WL 848560 (BIA): ['is remanded', 'is granted']- GRANTED
+2004 WL 848557 (BIA): ['is denied', 'find no error', 'is denied']- DENIED
+2004 WL 848577 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 848483 (BIA): ['is denied']- DENIED
+2004 WL 848513 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 848509 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2004 WL 848522 (BIA): ['is dismissed']- DENIED
+2004 WL 880307 (BIA): ['is denied']- DENIED
+2004 WL 880345 (BIA): ['is denied']- DENIED
+2004 WL 880338 (BIA): ['is denied']- DENIED
+2004 WL 880329 (BIA): ['are denied', 'are denied', 'The respondent’s motion is untimely', 'is denied']- DENIED
+2004 WL 880324 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 880366 (BIA): ['is denied']- DENIED
+2004 WL 880357 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 880371 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 880233 (BIA): ['is remanded', 'is sustained', 'grant the motion']- GRANTED
+2004 WL 880230 (BIA): ['is remanded', 'will be granted']- GRANTED
+2004 WL 880265 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 880274 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 880276 (BIA): ['is remanded', 'is remanded']- GRANTED
+2004 WL 1398789 (BIA): ['is dismissed']- DENIED
+2004 WL 1398796 (BIA): ['is remanded', 'is granted']- GRANTED
+2004 WL 1398798 (BIA): ['is denied']- DENIED
+2004 WL 1059609 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1059605 (BIA): ['is denied', 'is denied', 'is denied', 'is denied']- DENIED
+2004 WL 1059598 (BIA): ['is denied']- DENIED
+2004 WL 1059583 (BIA): ['is dismissed']- DENIED
+2004 WL 1059635 (BIA): ['is remanded', 'will be granted']- GRANTED
+2004 WL 1398644 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 1398786 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 1398750 (BIA): ['is vacated', 'is sustained']- GRANTED
+2004 WL 1398738 (BIA): ['is remanded', 'remand this case']- GRANTED
+2004 WL 1398714 (BIA): ['is denied']- DENIED
+2004 WL 1398719 (BIA): ['is remanded', 'is granted']- GRANTED
+2004 WL 1398715 (BIA): ['is denied']- DENIED
+2004 WL 1398686 (BIA): ['is dismissed', 'will be dismissed', 'find no error', 'will be dismissed']- DENIED
+2004 WL 1739026 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1739006 (BIA): ['is denied']- DENIED
+2004 WL 1739010 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 1739090 (BIA): ['is remanded', 'is remanded']- GRANTED
+2004 WL 1738989 (BIA): ['is denied']- DENIED
+2004 WL 1738966 (BIA): ['is sustained']- GRANTED
+2004 WL 1739100 (BIA): ['is remanded', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2004 WL 1739099 (BIA): ['is dismissed']- DENIED
+2004 WL 1739109 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1739110 (BIA): ['are vacated']- GRANTED
+2004 WL 1739119 (BIA): ['the appeal is untimely']- DENIED
+2004 WL 1739096 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 1739063 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 1739125 (BIA): ['is denied']- DENIED
+2004 WL 1739067 (BIA): ['is denied']- DENIED
+2004 WL 1739167 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 1739050 (BIA): ['is dismissed', 'dismiss the appeal', 'dismiss the appeal']- DENIED
+2004 WL 1739160 (BIA): ['is remanded', 'is granted']- GRANTED
+2004 WL 1739136 (BIA): ['is sustained']- GRANTED
+2004 WL 1739142 (BIA): ['is remanded']- GRANTED
+2004 WL 1739055 (BIA): ['we have dismissed', 'the appeal is untimely']- DENIED
+2004 WL 1739053 (BIA): ['is denied']- DENIED
+2004 WL 1739182 (BIA): ['is granted', 'is sustained', 'will be granted']- GRANTED
+2004 WL 1739176 (BIA): ['are denied']- DENIED
+2004 WL 1739199 (BIA): ['is remanded', 'is vacated', 'is sustained', 'is vacated', 'is denied']- GRANTED
+2004 WL 1739212 (BIA): ['is denied']- DENIED
+2004 WL 2418664 (BIA): ['is denied', 'is granted']- DENIED
+2004 WL 2374348 (BIA): ['is denied', 'dismiss the appeal']- DENIED
+2004 WL 2374486 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2004 WL 2374481 (BIA): ['is dismissed']- DENIED
+2004 WL 2374439 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2374424 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2004 WL 2374431 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2374434 (BIA): ['is remanded', 'is granted', 'is granted', 'is sustained']- GRANTED
+2004 WL 2374429 (BIA): ['is denied']- DENIED
+2004 WL 2374597 (BIA): []*******ERROR: 2004 WL 2374597 (BIA) has no result*************
+2004 WL 2374540 (BIA): ['is remanded', 'is denied', 'grant the motion']- GRANTED
+2004 WL 2374574 (BIA): ['is denied']- DENIED
+2004 WL 2374583 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 2374592 (BIA): ['is dismissed']- DENIED
+2004 WL 2374578 (BIA): ['is remanded']- GRANTED
+2004 WL 2374539 (BIA): ['We adopt and affirm the decision']- DENIED
+2004 WL 2374534 (BIA): []*******ERROR: 2004 WL 2374534 (BIA) has no result*************
+2004 WL 2374526 (BIA): ['is denied']- DENIED
+2004 WL 2374560 (BIA): ['is denied']- DENIED
+2004 WL 2374500 (BIA): ['We adopt and affirm the decision']- DENIED
+2004 WL 2374605 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 2374604 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 2374517 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2004 WL 2374521 (BIA): ['is dismissed', 'is granted', 'will be granted']- DENIED
+2004 WL 2374524 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 2374708 (BIA): ['is denied']- DENIED
+2004 WL 2374670 (BIA): ['is denied']- DENIED
+2004 WL 2374657 (BIA): ['is dismissed']- DENIED
+2004 WL 2374727 (BIA): ['is denied']- DENIED
+2004 WL 2374699 (BIA): ['is denied']- DENIED
+2004 WL 2374642 (BIA): ['We adopt and affirm the decision']- DENIED
+2004 WL 2374641 (BIA): ['is dismissed']- DENIED
+2004 WL 2374626 (BIA): ['is denied', 'is dismissed', 'grant the motion', 'will be dismissed', 'will be dismissed']- DENIED
+2004 WL 2374638 (BIA): ['is denied']- DENIED
+2004 WL 2374620 (BIA): ['is dismissed']- DENIED
+2004 WL 2374885 (BIA): ['is dismissed']- DENIED
+2004 WL 2374869 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 2374902 (BIA): ['is denied']- DENIED
+2004 WL 2374901 (BIA): ['is denied']- DENIED
+2004 WL 2374936 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2374935 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 2374908 (BIA): ['is denied', 'is dismissed']- DENIED
+2004 WL 2374924 (BIA): ['is remanded']- GRANTED
+2004 WL 2374790 (BIA): []*******ERROR: 2004 WL 2374790 (BIA) has no result*************
+2004 WL 2374800 (BIA): ['is denied']- DENIED
+2004 WL 2374950 (BIA): ['is denied']- DENIED
+2004 WL 2374798 (BIA): ['is, therefore, denied', 'dismiss the appeal']- DENIED
+2004 WL 2374803 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 2374817 (BIA): ['is granted', 'is vacated', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2004 WL 2374821 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 2374865 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2004 WL 2374863 (BIA): ['is denied']- DENIED
+2004 WL 2374845 (BIA): ['is dismissed']- DENIED
+2004 WL 2418623 (BIA): ['is remanded', 'will be granted']- GRANTED
+2004 WL 2418624 (BIA): ['is denied']- DENIED
+2004 WL 2418637 (BIA): ['is remanded']- GRANTED
+2004 WL 2418643 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2418644 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 2418646 (BIA): ['We adopt and affirm the decision']- DENIED
+2004 WL 2418660 (BIA): ['is denied']- DENIED
+2004 WL 2418659 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 2374310 (BIA): ['is remanded', 'is granted', 'will be granted', 'will be granted']- GRANTED
+2004 WL 2374283 (BIA): ['is remanded', 'will be granted']- GRANTED
+2004 WL 2374302 (BIA): ['is granted', 'is vacated', 'grant the motion']- GRANTED
+2004 WL 2374304 (BIA): ['is sustained']- GRANTED
+2004 WL 2374322 (BIA): ['is granted', 'is remanded', 'will be granted']- GRANTED
+2004 WL 2374967 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 2374976 (BIA): ['is denied']- DENIED
+2004 WL 2374995 (BIA): ['is dismissed']- DENIED
+2004 WL 2375021 (BIA): ['is remanded', 'will be granted', 'grant the motion']- GRANTED
+2004 WL 2374999 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2004 WL 2375007 (BIA): ['is denied']- DENIED
+2004 WL 2375034 (BIA): ['is denied', 'find no error']- DENIED
+2004 WL 2375045 (BIA): ['is dismissed', 'find no error']- DENIED
+2004 WL 2375073 (BIA): ['is dismissed']- DENIED
+2004 WL 2375064 (BIA): ['is denied']- DENIED
+2004 WL 2375120 (BIA): ['is granted']- GRANTED
+2004 WL 2375092 (BIA): ['We adopt and affirm the decision']- DENIED
+2004 WL 2375152 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 2375137 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2375139 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2004 WL 2418592 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2004 WL 2418715 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2418675 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 2418612 (BIA): ['is remanded', 'will be granted']- GRANTED
+2004 WL 2418689 (BIA): ['are denied']- DENIED
+2004 WL 2418613 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2004 WL 2418677 (BIA): ['is denied']- DENIED
+2004 WL 2943367 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2004 WL 2943412 (BIA): ['will be dismissed']- DENIED
+2004 WL 2943411 (BIA): ['is sustained', 'remand this case']- GRANTED
+2004 WL 2943402 (BIA): ['is denied']- DENIED
+2004 WL 2943408 (BIA): ['is denied']- DENIED
+2004 WL 2943394 (BIA): ['is remanded', 'is granted']- GRANTED
+2004 WL 2943435 (BIA): ['is denied']- DENIED
+2004 WL 2943462 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2004 WL 2943332 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2004 WL 2943352 (BIA): ['is remanded', 'is granted']- GRANTED
+2004 WL 2943339 (BIA): ['are denied', 'motion to reopen will be denied']- DENIED
+2004 WL 2943344 (BIA): ['is dismissed', 'find no error']- DENIED
+2004 WL 2943345 (BIA): ['is remanded']- GRANTED
+2004 WL 2943343 (BIA): ['is denied', 'is denied']- DENIED
+2004 WL 2943325 (BIA): ['are denied']- DENIED
+2004 WL 2943579 (BIA): ['is, therefore, denied']- DENIED
+2004 WL 2943307 (BIA): ['is granted']- GRANTED
+2004 WL 2943573 (BIA): ['is denied', 'find no error', 'find no error']- DENIED
+2004 WL 2943578 (BIA): ['is remanded']- GRANTED
+2004 WL 2943526 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2004 WL 2943567 (BIA): ['is remanded']- GRANTED
+2004 WL 2943531 (BIA): ['is denied']- DENIED
+2004 WL 2952190 (BIA): ['is dismissed', 'We adopt and affirm the decision']- DENIED
+2004 WL 2952195 (BIA): ['is remanded']- GRANTED
+2004 WL 2952194 (BIA): ['is remanded']- GRANTED
+2004 WL 2943553 (BIA): ['is denied']- DENIED
+2004 WL 2943580 (BIA): ['is denied']- DENIED
+2016 WL 4120561 (BIA): ['the appeal is untimely', 'is denied', 'the appeal is untimely']- DENIED
+2016 WL 4976731 (BIA): ['is dismissed', 'is affirmed']- DENIED
+2016 WL 4976727 (BIA): ['is denied', 'is denied']- DENIED
+2016 WL 4976722 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 4976690 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 4976664 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 4976650 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 4976642 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 6137085 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 6137124 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 6137125 (BIA): ['is dismissed', 'find no error', 'grant the motion', 'will be dismissed']- DENIED
+2016 WL 6137142 (BIA): ['is denied', 'is denied', 'The respondent’s motion is untimely']- DENIED
+2016 WL 6392713 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 6137151 (BIA): ['is denied']- DENIED
+2016 WL 6137155 (BIA): ['is denied', 'is denied']- DENIED
+2016 WL 6392708 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 6392686 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2016 WL 6392685 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 6392672 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 6392652 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2016 WL 6392643 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 6519985 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 6519987 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 6519974 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2016 WL 6519970 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 6519948 (BIA): ['is denied', 'is denied', 'The respondent’s motion is untimely']- DENIED
+2016 WL 6519946 (BIA): ['is remanded']- GRANTED
+2016 WL 6519942 (BIA): ['is dismissed', 'is dismissed']- DENIED
+2016 WL 6519928 (BIA): ['is denied', 'is denied', 'The respondent’s motion is untimely']- DENIED
+2016 WL 6519912 (BIA): ['is remanded', 'is denied']- GRANTED
+2016 WL 7032807 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 7032798 (BIA): ['is remanded']- GRANTED
+2016 WL 7032796 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 7032785 (BIA): ['is remanded']- GRANTED
+2016 WL 7032767 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 7032762 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2016 WL 7032763 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 8188647 (BIA): ['is remanded']- GRANTED
+2016 WL 8188626 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 8188628 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2016 WL 8188619 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 8188600 (BIA): ['is remanded']- GRANTED
+2016 WL 8188598 (BIA): ['is sustained']- GRANTED
+2016 WL 8188593 (BIA): ['is remanded']- GRANTED
+2016 WL 8188581 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2016 WL 8468342 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 8468340 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2016 WL 8468330 (BIA): ['is dismissed']- DENIED
+2016 WL 8468323 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2016 WL 8468308 (BIA): ['is remanded']- GRANTED
+2016 WL 8468279 (BIA): ['is denied', 'is denied', 'is denied', 'is dismissed', 'is sustained', 'will be dismissed']- DENIED
+2016 WL 8468276 (BIA): ['is dismissed', 'motion to reopen will be denied', 'will be dismissed']- DENIED
+2016 WL 8471225 (BIA): ['is denied', 'motion to reopen will be denied', 'motion to reopen will be denied']- DENIED
+2016 WL 8471210 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2016 WL 8471180 (BIA): ['is sustained']- GRANTED
+2016 WL 8471152 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2016 WL 8471154 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2016 WL 8471112 (BIA): ['is denied', 'motion to reopen will be denied', 'is granted']- DENIED
+2016 WL 8471075 (BIA): ['is denied']- DENIED
+2017 WL 1045583 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2017 WL 1045560 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2017 WL 1045553 (BIA): ['is denied', 'is granted']- DENIED
+2017 WL 1130710 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1130699 (BIA): ['is granted']- GRANTED
+2017 WL 1130703 (BIA): ['are denied']- DENIED
+2017 WL 1130694 (BIA): ['is remanded', 'is sustained', 'will be granted']- GRANTED
+2017 WL 1130690 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1130675 (BIA): ['is dismissed']- DENIED
+2017 WL 1130673 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1130665 (BIA): ['is denied']- DENIED
+2017 WL 1130662 (BIA): ['is remanded', 'is sustained']- GRANTED
+2017 WL 1130641 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1230075 (BIA): ['is dismissed', 'will be dismissed', 'The respondent’s motion is untimely', 'will be dismissed']- DENIED
+2017 WL 1230076 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2017 WL 1230073 (BIA): ['is denied', 'find no error']- DENIED
+2017 WL 1230062 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1230057 (BIA): ['is denied', 'is denied']- DENIED
+2017 WL 1230055 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1230034 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1230021 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1230014 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1330157 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1330152 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1330140 (BIA): ['is remanded']- GRANTED
+2017 WL 1330137 (BIA): ['is remanded', 'is sustained']- GRANTED
+2017 WL 1330102 (BIA): ['is remanded', 'is hereby vacated', 'grant the motion']- GRANTED
+2017 WL 1330068 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1330058 (BIA): ['is sustained']- GRANTED
+2017 WL 1330054 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1330052 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1508919 (BIA): ['is remanded', 'will be granted']- GRANTED
+2017 WL 1508904 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1508902 (BIA): ['is denied']- DENIED
+2017 WL 1508901 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2017 WL 1508893 (BIA): ['is remanded']- GRANTED
+2017 WL 1508882 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2017 WL 1951570 (BIA): ['is remanded', 'is sustained', 'is denied']- GRANTED
+2017 WL 1951572 (BIA): ['is affirmed']- DENIED
+2017 WL 1951566 (BIA): ['is denied', 'grant the motion']- DENIED
+2017 WL 1951557 (BIA): ['is remanded', 'will be granted']- GRANTED
+2009 WL 1364843 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 1364820 (BIA): ['is dismissed']- DENIED
+2009 WL 1364860 (BIA): ['is denied', 'is denied']- DENIED
+2009 WL 1364855 (BIA): ['is dismissed']- DENIED
+24 I. & N. Dec. 795 (BIA), Interim Decision 3641, 2009 WL 1216566: ['are vacated', 'is dismissed', 'will be dismissed', 'will be dismissed']- GRANTED
+2009 WL 1653732 (BIA): ['are vacated']- GRANTED
+2009 WL 1653812 (BIA): ['motion to reopen will be denied']- DENIED
+2009 WL 1799983 (BIA): ['is dismissed']- DENIED
+2009 WL 1800031 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+25 I. & N. Dec. 1 (U.S.Atty.Gen.), Interim Decision 3643, 2009 WL 1570283: []*******ERROR: 25 I. & N. Dec. 1 (U.S.Atty.Gen.), Interim Decision 3643, 2009 WL 1570283 has no result*************
+2009 WL 1800089 (BIA): ['are vacated']- GRANTED
+2009 WL 1800105 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 1863826 (BIA): ['is denied']- DENIED
+2009 WL 1863831 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 1863846 (BIA): ['is denied']- DENIED
+2009 WL 1863812 (BIA): ['is dismissed', 'grant the motion', 'will be dismissed']- DENIED
+2009 WL 2171638 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 2171698 (BIA): ['is denied', 'is dismissed', 'will be dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 2171622 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 2171581 (BIA): ['is denied']- DENIED
+2009 WL 2171576 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 2218092 (BIA): ['is remanded', 'is granted', 'will be granted', 'is granted', 'will be granted']- GRANTED
+2009 WL 2370854 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2009 WL 2437146 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 2437166 (BIA): ['is denied']- DENIED
+2009 WL 2437184 (BIA): ['is denied']- DENIED
+2009 WL 2576474 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2009 WL 2576459 (BIA): ['is denied', 'is denied']- DENIED
+2009 WL 2981775 (BIA): ['is remanded']- GRANTED
+2009 WL 2981768 (BIA): ['is denied']- DENIED
+2009 WL 2981776 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2009 WL 2981780 (BIA): ['is remanded']- GRANTED
+2009 WL 2981747 (BIA): ['is remanded', 'is vacated', 'grant the motion']- GRANTED
+2009 WL 2981834 (BIA): ['is remanded', 'is vacated']- GRANTED
+2009 WL 2981843 (BIA): ['is, therefore, denied']- DENIED
+2009 WL 2981850 (BIA): ['is, hereby, denied']- DENIED
+2009 WL 3063598 (BIA): ['is dismissed', 'find no error', 'find no error', 'will be dismissed']- DENIED
+2009 WL 3063771 (BIA): ['is denied', 'is granted']- DENIED
+2009 WL 3063640 (BIA): ['is denied', 'is denied', 'find no error']- DENIED
+2009 WL 3250484 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 3250405 (BIA): ['is remanded', 'is granted', 'grant the motion']- GRANTED
+2009 WL 3250414 (BIA): ['is, therefore, denied']- DENIED
+2009 WL 3250380 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 3250432 (BIA): ['is remanded', 'is granted', 'will be granted']- GRANTED
+2009 WL 3250358 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2009 WL 3250276 (BIA): ['is remanded', 'is granted']- GRANTED
+2009 WL 3250293 (BIA): ['is sustained']- GRANTED
+2009 WL 3448140 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2009 WL 3448155 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2009 WL 3713226 (BIA): ['is remanded', 'is vacated']- GRANTED
+2009 WL 3713232 (BIA): ['is dismissed', 'is vacated', 'will be dismissed']- DENIED
+2009 WL 3713193 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2009 WL 3713293 (BIA): ['is remanded', 'is sustained']- GRANTED
+2009 WL 3713316 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 3713330 (BIA): ['is sustained']- GRANTED
+2009 WL 3713329 (BIA): ['will be granted']- GRANTED
+2009 WL 3818031 (BIA): ['is vacated', 'is denied']- GRANTED
+2009 WL 3818024 (BIA): ['is denied']- DENIED
+2009 WL 3818020 (BIA): ['is remanded']- GRANTED
+2009 WL 3818038 (BIA): ['is denied']- DENIED
+2009 WL 3818017 (BIA): ['is denied']- DENIED
+2009 WL 3818076 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 4030402 (BIA): ['is remanded', 'remand this case']- GRANTED
+2009 WL 4639831 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2009 WL 4639837 (BIA): ['is denied', 'is denied', 'is denied']- DENIED
+2009 WL 4639867 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 4899028 (BIA): ['is denied', 'is denied']- DENIED
+2009 WL 4899054 (BIA): ['is remanded', 'will be granted', 'is vacated']- GRANTED
+2009 WL 4899009 (BIA): ['is denied']- DENIED
+2009 WL 4899008 (BIA): ['is denied', 'is denied']- DENIED
+2009 WL 5252750 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2009 WL 5252741 (BIA): ['is dismissed', 'is dismissed', 'will be dismissed']- DENIED
+2009 WL 5604420 (BIA): ['is remanded', 'is denied']- GRANTED
+2009 WL 5252680 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 5252688 (BIA): ['is dismissed']- DENIED
+2009 WL 5252691 (BIA): ['is dismissed', 'is affirmed', 'will be dismissed']- DENIED
+2009 WL 5252687 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 5252798 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2009 WL 5252791 (BIA): ['is denied', 'is denied']- DENIED
+2009 WL 5252765 (BIA): ['are dismissing', 'the appeal is untimely']- DENIED
+2009 WL 5252764 (BIA): ['is dismissed', 'will be granted']- DENIED
+2009 WL 5252763 (BIA): ['is remanded', 'is sustained']- GRANTED
+2009 WL 5443717 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2009 WL 5443865 (BIA): ['is denied']- DENIED
+2009 WL 5443985 (BIA): ['is dismissed', 'will be dismissed', 'is granted']- DENIED
+2009 WL 5443983 (BIA): ['is denied', 'is denied']- DENIED
+2009 WL 5443568 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2009 WL 5443566 (BIA): ['is remanded']- GRANTED
+2009 WL 5443629 (BIA): ['is dismissed']- DENIED
+2009 WL 5443584 (BIA): ['are denied']- DENIED
+2009 WL 5548118 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 304208 (BIA): ['is denied']- DENIED
+2010 WL 334710 (BIA): ['is remanded']- GRANTED
+2010 WL 334711 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2010 WL 673476 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2010 WL 673452 (BIA): ['is remanded', 'will be granted']- GRANTED
+2010 WL 673451 (BIA): ['is denied', 'is denied']- DENIED
+2010 WL 691266 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2010 WL 691277 (BIA): ['is remanded']- GRANTED
+2010 WL 691284 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 5872127 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2013 WL 5872215 (BIA): ['is dismissed', 'is dismissed', 'find no error', 'will be dismissed']- DENIED
+2013 WL 5872211 (BIA): ['is dismissed']- DENIED
+2013 WL 5872209 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 5872208 (BIA): ['is dismissed', 'is affirmed']- DENIED
+2013 WL 5872200 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 5872196 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 5872189 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 5872185 (BIA): ['is dismissed', 'is denied', 'will be dismissed']- DENIED
+2013 WL 5872179 (BIA): ['is dismissed', 'will be granted']- DENIED
+2013 WL 6269347 (BIA): ['is denied', 'is denied', 'is denied', 'remand this case']- DENIED
+2013 WL 6269330 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 6529182 (BIA): ['is granted']- GRANTED
+2013 WL 6628287 (BIA): ['is remanded', 'are vacated', 'is sustained']- GRANTED
+2013 WL 6529167 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 6529166 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 6529243 (BIA): ['is remanded']- GRANTED
+2013 WL 6529242 (BIA): ['is remanded', 'is granted', 'grant the motion', 'will be granted']- GRANTED
+2013 WL 6529200 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 6529185 (BIA): ['is denied', 'is dismissed']- DENIED
+2013 WL 6529272 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 6529290 (BIA): ['is denied', 'is dismissed']- DENIED
+2013 WL 6921667 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2013 WL 6921656 (BIA): ['is dismissed']- DENIED
+2013 WL 6921655 (BIA): ['is dismissed', 'will be dismissed', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2013 WL 6921648 (BIA): ['are denied']- DENIED
+2013 WL 6921682 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2013 WL 6921671 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2013 WL 6921677 (BIA): ['is granted']- GRANTED
+2013 WL 6921674 (BIA): ['is denied', 'is denied', 'is dismissed', 'will be dismissed']- DENIED
+2013 WL 6921560 (BIA): ['are denied', 'is denied']- DENIED
+2013 WL 6921570 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2014 WL 347697 (BIA): ['is denied', 'The respondent’s motion is untimely']- DENIED
+2014 WL 347685 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 347652 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2014 WL 347672 (BIA): ['is remanded']- GRANTED
+2014 WL 1120168 (BIA): ['is dismissed']- DENIED
+2014 WL 1120184 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 1120183 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1120210 (BIA): ['is dismissed', 'remand this case', 'We adopt and affirm the decision', 'will be dismissed']- DENIED
+2014 WL 1120178 (BIA): ['the appeal is untimely', 'the appeal is untimely']- DENIED
+2014 WL 1120176 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1120190 (BIA): ['is dismissed', 'grant the motion', 'is granted']- DENIED
+2014 WL 1118468 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 1120192 (BIA): ['is remanded', 'is granted', 'grant the motion', 'will be granted']- GRANTED
+2014 WL 1118462 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2014 WL 1118483 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1118477 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1278385 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2014 WL 1278420 (BIA): ['is sustained']- GRANTED
+2014 WL 1278358 (BIA): ['is remanded']- GRANTED
+2014 WL 1278367 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1278443 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1278459 (BIA): ['is vacated', 'is dismissed', 'will be dismissed', 'is denied', 'will be dismissed', 'dismiss the appeal', 'We adopt and affirm the decision', 'will be dismissed']- GRANTED
+2014 WL 1278460 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 1401582 (BIA): ['is remanded']- GRANTED
+2014 WL 1401574 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1401565 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 1401570 (BIA): ['is remanded']- GRANTED
+2014 WL 1401606 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2014 WL 1404584 (BIA): ['is remanded', 'is sustained']- GRANTED
+2014 WL 1404623 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2014 WL 1652386 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1652412 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 1652407 (BIA): ['is granted', 'is denied']- GRANTED
+2014 WL 2919241 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 2919239 (BIA): ['is remanded', 'will be granted', 'will be granted']- GRANTED
+2014 WL 3697663 (BIA): ['is dismissed', 'is dismissed', 'will be dismissed']- DENIED
+2014 WL 3697758 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 3697745 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 3697739 (BIA): ['is denied', 'is dismissed', 'will be dismissed']- DENIED
+2014 WL 3698186 (BIA): ['is remanded', 'is sustained']- GRANTED
+2014 WL 3697737 (BIA): ['is dismissed', 'find no error', 'will be dismissed']- DENIED
+2014 WL 3697779 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 3795489 (BIA): ['is denied', 'is denied', 'The respondent’s motion is untimely']- DENIED
+2014 WL 3817755 (BIA): ['is denied', 'is denied', 'The respondent’s motion is untimely']- DENIED
+2014 WL 3795538 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 3795542 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 3795558 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 3795551 (BIA): ['is dismissed', 'will be dismissed', 'will be dismissed']- DENIED
+2014 WL 3889549 (BIA): ['is dismissed']- DENIED
+2014 WL 3889543 (BIA): ['is denied', 'is denied']- DENIED
+2014 WL 3889537 (BIA): ['is dismissed', 'will be dismissed', 'find no error', 'will be dismissed']- DENIED
+2014 WL 3889541 (BIA): ['is dismissed', 'dismiss the appeal', 'will be dismissed']- DENIED
+2014 WL 3889576 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 3889567 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 3889571 (BIA): ['will be granted']- GRANTED
+2014 WL 3889813 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 3889478 (BIA): ['is dismissed', 'is granted']- DENIED
+2014 WL 3889854 (BIA): ['is remanded']- GRANTED
+2014 WL 3889494 (BIA): ['will be dismissed']- DENIED
+2014 WL 4259419 (BIA): ['is denied', 'motion to reopen will be denied']- DENIED
+2014 WL 4259409 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 4259167 (BIA): ['is remanded', 'will be dismissed']- GRANTED
+2014 WL 4259159 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 4259178 (BIA): ['is sustained']- GRANTED
+2014 WL 4259175 (BIA): ['is dismissed', 'will be dismissed', 'is granted']- DENIED
+2014 WL 4259397 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+2014 WL 4407757 (BIA): ['is dismissed', 'dismiss the appeal']- DENIED
+2014 WL 4407961 (BIA): ['is dismissed', 'will be dismissed']- DENIED
+Cases with No result: 19 out of 2285 cases.
+Granted Rate: 0.23063457330415754 out of 2285 cases.
