@@ -4,7 +4,7 @@ from immigration import ImmigrationCase
 
 case_file = ImmigrationCase()
 
-for root, dirs, files in os.walk('txt/'):
+for root, dirs, files in os.walk('westlaw/'):
     for file in files:
         file_path = join(root, file)
         print(file_path)

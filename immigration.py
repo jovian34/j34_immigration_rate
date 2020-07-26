@@ -7,6 +7,12 @@ class ImmigrationCase:
         self.case_dict = {}
         self.case_list = []
         self.current_case_date = None
+        self.other_factors = [
+            "asylum",
+            "cancellation of removal",
+            "voluntary departure",
+            "adjustment of status",
+        ]
         self.key_denied_phrase_collection = [
             "is denied",
             "are denied",
@@ -54,13 +60,16 @@ class ImmigrationCase:
         ]
 
     def line_contains_key_phrase(self, text):
-        phrase_result = None
+        phrase_result = []
         for denied_phrase in self.key_denied_phrase_collection:
             if denied_phrase in text:
-                phrase_result = denied_phrase
+                phrase_result.append(denied_phrase)
         for grant_phrase in self.key_granted_phrase_collection:
             if grant_phrase in text:
-                phrase_result = grant_phrase
+                phrase_result.append(grant_phrase)
+        for other_phrase in self.other_factors:
+            if other_phrase in text:
+                phrase_result.append(other_phrase)
         return phrase_result
 
     def is_line_a_date(self, text):
@@ -96,23 +105,32 @@ class ImmigrationCase:
                 elif self.is_line_a_date(line.strip()):
                     values["date"] = self.current_case_date
                 else:
-                    phrase = self.line_contains_key_phrase(line.strip())
-                    if phrase:
-                        key_phrases.append(phrase)
+                    phrases = self.line_contains_key_phrase(line.strip())
+                    if len(phrases) > 0:
+                        for phrase in phrases:
+                            key_phrases.append(phrase)
             values["phrases"] = key_phrases
             self.case_dict[curr_case] = values
 
+    def determine_result(self, phrases):
+        for phrase in phrases:
+            try:
+                if phrase in self.key_granted_phrase_collection:
+                    return 'Granted'
+                if phrase in self.key_denied_phrase_collection:
+                    return 'Denied'
+                if phrase is self.other_factors:
+                    pass
+            except IndexError:
+                return '*******ERROR'
+        return '*******ERROR'
+
     def create_sorted_case_list(self):
         for case, value in self.case_dict.items():
-            try:
-                if value['phrases'][0] in self.key_granted_phrase_collection:
-                    result = 'Granted'
-                if value['phrases'][0] in self.key_denied_phrase_collection:
-                    result = 'Denied'
-            except IndexError:
-                result = '*******ERROR'
-                phrases = ['No phrases']
             phrases = value['phrases']
+            result = self.determine_result(phrases)
+            if result == '*******ERROR':
+                phrases = ['No phrases']
             try:
                 case_date = value['date']
             except KeyError:
@@ -144,6 +162,8 @@ class ImmigrationCase:
             granted_rate = granted / total
             result_file.writelines(f"Cases with No result: {no_result} out of {total} cases.\n")
             result_file.writelines(f"Granted Rate: {granted_rate} out of {total} cases.")
+
+
 
     @staticmethod
     def report_error_cases():
