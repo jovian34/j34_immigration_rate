@@ -1,9 +1,11 @@
 import maya
 
+
 class ImmigrationCase:
 
     def __init__(self):
         self.case_dict = {}
+        self.case_list = []
         self.current_case_date = None
         self.key_denied_phrase_collection = [
             "is denied",
@@ -51,26 +53,6 @@ class ImmigrationCase:
             "are hereby sustained",
         ]
 
-    @staticmethod
-    def replace_month_abrev(date_string):
-        month_dict = {"Jan ": "January ",
-                      "Feb ": "February ",
-                      "Mar ": "March ",
-                      "Apr ": "April ",
-                      "May ": "May ",
-                      "Jun ": "June ",
-                      "Jul ": "July ",
-                      "Aug ": "August ",
-                      "Sep ": "September ",
-                      "Sept ": "September ",
-                      "Oct ": "October ",
-                      "Nov ": "November ",
-                      "Dec ": "December "}
-        abrev_found = filter(lambda abrev_month: abrev_month in date_string, month_dict.keys())
-        for abrev in abrev_found:
-            date_string = date_string.replace(abrev, month_dict[abrev])
-        return date_string
-
     def line_contains_key_phrase(self, text):
         phrase_result = None
         for denied_phrase in self.key_denied_phrase_collection:
@@ -101,6 +83,7 @@ class ImmigrationCase:
                     else:
                         values["phrases"] = key_phrases
                         self.case_dict[curr_case] = values
+                        key_phrases = []
                     curr_case = line.strip()
                     self.case_dict[curr_case] = "Unknown"
                     values = {}
@@ -119,32 +102,45 @@ class ImmigrationCase:
             values["phrases"] = key_phrases
             self.case_dict[curr_case] = values
 
+    def create_sorted_case_list(self):
+        for case, value in self.case_dict.items():
+            try:
+                if value['phrases'][0] in self.key_granted_phrase_collection:
+                    result = 'Granted'
+                if value['phrases'][0] in self.key_denied_phrase_collection:
+                    result = 'Denied'
+            except IndexError:
+                result = '*******ERROR'
+                phrases = ['No phrases']
+            phrases = value['phrases']
+            try:
+                case_date = value['date']
+            except KeyError:
+                now = maya.now()
+                today = now.datetime()
+                case_date = today
+            try:
+                non_citizen = value['name']
+            except KeyError:
+                non_citizen = None
+            case_details = [case_date, non_citizen, result, phrases]
+            self.case_list.append(case_details)
+        self.case_list.sort(key=lambda x: x[0])
+
     def calculate_granted_rate(self):
         granted = 0
         total = 0
         no_result = 0
         with open('outputs/result.txt', 'w') as result_file:
-            for case, value in self.case_dict.items():
-                result_file.writelines(f"{case}: {value['phrases'][0]}")
-                try:
-                    if value['phrases'][0] in self.key_granted_phrase_collection:
-                        granted += 1
-                        result_file.writelines(f"- GRANTED")
-                    else:
-                        result_file.writelines(f"- DENIED")
-                except IndexError:
-                    result_file.writelines(f"*******ERROR: {case} has no result*************\n")
-                    no_result += 1
+            for case in self.case_list:
+                case_date = maya.MayaDT.from_datetime(case[0])
+                case_date = case_date.date
+                result_file.writelines(f"{case[1]}: on {case_date} result: {case[2]}, with phrases: {case[3]}\n")
                 total += 1
-                try:
-                    result_file.writelines(f" - Name: {value['name']}")
-                except KeyError:
-                    result_file.writelines(f" - Name: NO NAME FOUND")
-                try:
-                    result_file.writelines(f" - Date: {value['date']}\n")
-                except KeyError:
-                    result_file.writelines(f" - Date: NO DATE FOUND")
-
+                if case[2] == 'Granted':
+                    granted += 1
+                if case[2] == '*******ERROR':
+                    no_result += 1
             granted_rate = granted / total
             result_file.writelines(f"Cases with No result: {no_result} out of {total} cases.\n")
             result_file.writelines(f"Granted Rate: {granted_rate} out of {total} cases.")

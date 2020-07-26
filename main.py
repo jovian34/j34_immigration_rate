@@ -10,5 +10,6 @@ for root, dirs, files in os.walk('txt/'):
         print(file_path)
         case_file.add_cases_to_dict(file_path)
 
+case_file.create_sorted_case_list()
 case_file.calculate_granted_rate()
 case_file.report_error_cases()
