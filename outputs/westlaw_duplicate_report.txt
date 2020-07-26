@@ -1,0 +1,3 @@
+Length of Westlaw List before: 1105
+Length of Westlaw List after: 1065
+There were 40 duplicates in Westlaw.

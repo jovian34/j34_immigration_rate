@@ -1,0 +1,3 @@
+Length of Lexis List before: 1893
+Length of Lexis List after: 1457
+There were 436 duplicates in Lexis.
