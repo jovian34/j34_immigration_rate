@@ -1,7 +1,10 @@
+import maya
+
 class ImmigrationCase:
 
     def __init__(self):
         self.case_dict = {}
+        self.current_case_date = None
         self.key_denied_phrase_collection = [
             "is denied",
             "are denied",
@@ -48,6 +51,26 @@ class ImmigrationCase:
             "are hereby sustained",
         ]
 
+    @staticmethod
+    def replace_month_abrev(date_string):
+        month_dict = {"Jan ": "January ",
+                      "Feb ": "February ",
+                      "Mar ": "March ",
+                      "Apr ": "April ",
+                      "May ": "May ",
+                      "Jun ": "June ",
+                      "Jul ": "July ",
+                      "Aug ": "August ",
+                      "Sep ": "September ",
+                      "Sept ": "September ",
+                      "Oct ": "October ",
+                      "Nov ": "November ",
+                      "Dec ": "December "}
+        abrev_found = filter(lambda abrev_month: abrev_month in date_string, month_dict.keys())
+        for abrev in abrev_found:
+            date_string = date_string.replace(abrev, month_dict[abrev])
+        return date_string
+
     def line_contains_key_phrase(self, text):
         phrase_result = None
         for denied_phrase in self.key_denied_phrase_collection:
@@ -57,6 +80,13 @@ class ImmigrationCase:
             if grant_phrase in text:
                 phrase_result = grant_phrase
         return phrase_result
+
+    def is_line_a_date(self, text):
+        try:
+            self.current_case_date = maya.parse(text).datetime()
+        except:
+            return False
+        return True
 
     def add_cases_to_dict(self, file_path):
         new_case = False
@@ -75,11 +105,13 @@ class ImmigrationCase:
                     self.case_dict[curr_case] = "Unknown"
                     values = {}
                     new_case = False
+                    self.current_case_date = None
                 elif line.strip() == "End of Document":
                     new_case = True
                 elif line.strip()[:6] == "IN RE:":
-                    values["name"] == line.strip()[6:]
-                    print(values["name"])
+                    values["name"] = line.strip()[6:]
+                elif self.is_line_a_date(line.strip()):
+                    values["date"] = self.current_case_date
                 else:
                     phrase = self.line_contains_key_phrase(line.strip())
                     if phrase:
@@ -97,13 +129,21 @@ class ImmigrationCase:
                 try:
                     if value['phrases'][0] in self.key_granted_phrase_collection:
                         granted += 1
-                        result_file.writelines(f"- GRANTED\n")
+                        result_file.writelines(f"- GRANTED")
                     else:
-                        result_file.writelines(f"- DENIED\n")
+                        result_file.writelines(f"- DENIED")
                 except IndexError:
                     result_file.writelines(f"*******ERROR: {case} has no result*************\n")
                     no_result += 1
                 total += 1
+                try:
+                    result_file.writelines(f" - Name: {value['name']}")
+                except KeyError:
+                    result_file.writelines(f" - Name: NO NAME FOUND")
+                try:
+                    result_file.writelines(f" - Date: {value['date']}\n")
+                except KeyError:
+                    result_file.writelines(f" - Date: NO DATE FOUND")
 
             granted_rate = granted / total
             result_file.writelines(f"Cases with No result: {no_result} out of {total} cases.\n")
