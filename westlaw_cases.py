@@ -62,12 +62,6 @@ class WestlawCase:
             "are hereby sustained",
         ]
 
-        self.presidential_terms = {
-            '2021-01-19': 'Trump',
-            '2017-01-19': 'Obama',
-            '2009-01-19': 'Bush',
-        }
-
     def line_contains_key_phrase(self, text):
         phrase_result = []
         for denied_phrase in self.key_denied_phrase_collection:
@@ -289,11 +283,6 @@ class WestlawCase:
             result_file.writelines(f"The Granted Rate under President Trump is {trump_rate}%, "
                                    f"{trump_granted} granted cases out of {trump_total}\n")
 
-
-
-
-
-
     def calculate_granted_plus_other(self):
         other_factor_dict = {factor: 0 for factor in self.other_factors}
         for case in self.case_list:
@@ -309,7 +298,7 @@ class WestlawCase:
 
     @staticmethod
     def report_error_cases():
-        with open('outputs/result.txt', 'r') as result_text:
+        with open('outputs/westlaw_result.txt', 'r') as result_text:
             with open('outputs/error.txt', 'w') as error_text:
                 lines = result_text.readlines()
                 for line in lines:
