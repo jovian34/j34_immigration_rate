@@ -1,5 +1,6 @@
 import maya
 from maya import MayaInterval
+from phrases import Phrases
 
 
 class WestlawCase:
@@ -9,68 +10,17 @@ class WestlawCase:
         self.case_list = []
         self.filter_case_list = []
         self.current_case_date = None
-
-        self.other_factors = [
-            "asylum",
-            "cancellation of removal",
-            "voluntary departure",
-            "adjustment of status",
-        ]
-        self.key_denied_phrase_collection = [
-            "is denied",
-            "are denied",
-            "is dismissed",
-            "are dismissed",
-            "is hereby denied",
-            "is, hereby, denied",
-            "are hereby denied",
-            "is, therefore, denied",
-            "are, therefore, denied",
-            "motion to reopen will be denied",  # 2005 WL 3709369 (BIA)
-            "will be dismissed",
-            "are dismissing",
-            "we have dismissed",
-            "dismiss the appeal",
-            "We adopt and affirm the decision",  # 2005 WL 3709334 (BIA)
-            "we hold that reopening is not warranted",  # 2005 WL 698449 (BIA)
-            "find no error",  # 2008 WL 5537794 (BIA)
-            "the appeal is untimely",  # 2003 WL 23269917 (BIA)
-            "The respondent’s motion is untimely",  # 2003 WL 23270101 (BIA)
-            "is affirmed",  # The decision of the immigration judge
-        ]
-
-        self.key_granted_phrase_collection = [
-            "is granted",
-            "are granted",
-            "is hereby granted",
-            "are hereby granted",
-            "will be granted",
-            "grant the motion",
-            "is remanded",
-            "are remanded",
-            "We therefore remand",
-            "is hereby remanded",
-            "are hereby remanded",
-            "remand this case",
-            "is vacated",
-            "are vacated",
-            "is hereby vacated",
-            "are hereby vacated",
-            "is sustained",
-            "are sustained",
-            "is hereby sustained",
-            "are hereby sustained",
-        ]
+        self.phrases = Phrases()
 
     def line_contains_key_phrase(self, text):
         phrase_result = []
-        for denied_phrase in self.key_denied_phrase_collection:
+        for denied_phrase in self.phrases.key_denied_phrase_collection:
             if denied_phrase in text:
                 phrase_result.append(denied_phrase)
-        for grant_phrase in self.key_granted_phrase_collection:
+        for grant_phrase in self.phrases.key_granted_phrase_collection:
             if grant_phrase in text:
                 phrase_result.append(grant_phrase)
-        for other_phrase in self.other_factors:
+        for other_phrase in self.phrases.other_factors:
             if other_phrase in text:
                 phrase_result.append(other_phrase)
         return phrase_result
@@ -181,11 +131,11 @@ class WestlawCase:
     def determine_result(self, phrases):
         for phrase in phrases:
             try:
-                if phrase in self.key_granted_phrase_collection:
+                if phrase in self.phrases.key_granted_phrase_collection:
                     return 'Granted'
-                if phrase in self.key_denied_phrase_collection:
+                if phrase in self.phrases.key_denied_phrase_collection:
                     return 'Denied'
-                if phrase is self.other_factors:
+                if phrase is self.phrases.other_factors:
                     pass
             except IndexError:
                 return '*******ERROR'
@@ -284,9 +234,9 @@ class WestlawCase:
                                    f"{trump_granted} granted cases out of {trump_total}\n")
 
     def calculate_granted_plus_other(self):
-        other_factor_dict = {factor: 0 for factor in self.other_factors}
+        other_factor_dict = {factor: 0 for factor in self.phrases.other_factors}
         for case in self.case_list:
-            for factor in self.other_factors:
+            for factor in self.phrases.other_factors:
                 if case[2] == 'Granted':
                     if factor in case[3]:
                         other_factor_dict[factor] += 1
