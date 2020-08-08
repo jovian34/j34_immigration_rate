@@ -25,6 +25,7 @@ for root, dirs, files in os.walk('lexis/'):
 westlaw_case_file.create_sorted_case_list()
 westlaw_case_file.filter_cases()
 westlaw_case_file.remove_duplicate_cases()
+westlaw_case_file.output_duplicate_list()
 westlaw_case_file.calculate_granted_rate()
 westlaw_case_file.report_error_cases()
 westlaw_case_file.calculate_granted_plus_other()

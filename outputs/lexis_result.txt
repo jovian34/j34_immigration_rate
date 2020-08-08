@@ -1446,13 +1446,13 @@
 ['Komlanvi Mawunyo AVITSO']: on 2019-12-17 
 ['Alfredo ARRINDELL', 'Alfredo Arrindel', 'Alfredo Arrindel Meran', 'Alfredo Arrindell Meran']: on 2019-12-23 
 ['Jose Maria CANTU-MARTINEZ']: on 2019-12-27 
-['MONICA GALLEGOS-ARES', 'Slip Opinion', 'File: A26 368 910 - San Francisco']: on 2020-07-26 
-['ROSA ELIZABETH RIVAS HERNANDEZ IN REMOVAL PROCEEDINGS APPEAL', 'Slip Opinion', 'File: A203 284 260 - Memphis', 'TN']: on 2020-07-26 
-['Khurram Jehangir Khan In Removal Proceedings']: on 2020-07-26 
-['ZAIQ ELBA']: on 2020-07-26 
-['JOSE MOSCOSO-ZUNIGA & MARIA MOSCOSO']: on 2020-07-26 
-['Angelina Diego BASILIO Magdalena Evelin DIEGO']: on 2020-07-26 
-['Yolanda Berenice MEJIA-ROMERO Edisson Ademir BERRIOS-MEJIA']: on 2020-07-26 
-['EDITH TRUCKENBROD PETER TRUCKENBROD']: on 2020-07-26 
-['MANUEL M RTVAS BERRIOS JACTNTA CRUZ-BERRIOS']: on 2020-07-26 
+['MONICA GALLEGOS-ARES', 'Slip Opinion', 'File: A26 368 910 - San Francisco']: on 2020-08-08 
+['ROSA ELIZABETH RIVAS HERNANDEZ IN REMOVAL PROCEEDINGS APPEAL', 'Slip Opinion', 'File: A203 284 260 - Memphis', 'TN']: on 2020-08-08 
+['Khurram Jehangir Khan In Removal Proceedings']: on 2020-08-08 
+['ZAIQ ELBA']: on 2020-08-08 
+['JOSE MOSCOSO-ZUNIGA & MARIA MOSCOSO']: on 2020-08-08 
+['Angelina Diego BASILIO Magdalena Evelin DIEGO']: on 2020-08-08 
+['Yolanda Berenice MEJIA-ROMERO Edisson Ademir BERRIOS-MEJIA']: on 2020-08-08 
+['EDITH TRUCKENBROD PETER TRUCKENBROD']: on 2020-08-08 
+['MANUEL M RTVAS BERRIOS JACTNTA CRUZ-BERRIOS']: on 2020-08-08 
 There are 1457 Lexis Cases

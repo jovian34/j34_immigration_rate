@@ -9,6 +9,7 @@ class WestlawCase:
         self.case_dict = {}
         self.case_list = []
         self.filter_case_list = []
+        self.duplicate_case_list = []
         self.current_case_date = None
         self.phrases = Phrases()
 
@@ -169,11 +170,20 @@ class WestlawCase:
             for case in self.case_list:
                 if case not in no_dup_case_list:
                     no_dup_case_list.append(case)
+                else:
+                    self.duplicate_case_list.append(case)
             self.case_list = no_dup_case_list
             after_length = len(self.case_list)
             result_file.writelines(f"Length of Westlaw List after: {after_length}\n")
             difference = before_length - after_length
             result_file.writelines(f"There were {difference} duplicates in Westlaw.")
+
+    def output_duplicate_list(self):
+        with open('outputs/westlaw_duplicate.txt', 'w', encoding='utf-8') as result_text:
+            for case in self.duplicate_case_list:
+                case_date = maya.MayaDT.from_datetime(case[0])
+                case_date = case_date.date
+                result_text.writelines(f"{case[1]}: on {case_date} result: {case[2]}, with phrases: {case[3]}\n")
 
     def calculate_granted_rate(self):
         granted = 0
