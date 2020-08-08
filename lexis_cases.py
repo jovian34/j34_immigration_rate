@@ -4,6 +4,7 @@ import maya
 class LexisCase:
     def __init__(self):
         self.case_list = []
+        self.duplicate_case_list = []
 
     @staticmethod
     def determine_name(info):
@@ -81,11 +82,20 @@ class LexisCase:
             for case in self.case_list:
                 if case not in no_dup_case_list:
                     no_dup_case_list.append(case)
+                else:
+                    self.duplicate_case_list.append(case)
             self.case_list = no_dup_case_list
             after_length = len(self.case_list)
             result_file.writelines(f"Length of Lexis List after: {after_length}\n")
             difference = before_length - after_length
             result_file.writelines(f"There were {difference} duplicates in Lexis.")
+
+    def output_duplicate_list(self):
+        with open('outputs/lexis_duplicate.txt', 'w', encoding='utf-8') as result_text:
+            for case in self.duplicate_case_list:
+                case_date = maya.MayaDT.from_datetime(case[0])
+                case_date = case_date.date
+                result_text.writelines(f"{case[1]}: on {case_date} \n")
 
     def output_lexis_case_list(self):
         with open('outputs/lexis_result.txt', 'w') as result_file:

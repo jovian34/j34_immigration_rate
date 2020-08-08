@@ -32,6 +32,7 @@ westlaw_case_file.calculate_granted_plus_other()
 westlaw_case_file.presidential_granted_rate()
 
 lexis_case_file.remove_duplicate_cases()
+lexis_case_file.output_duplicate_list()
 lexis_case_file.output_lexis_case_list()
 
 
